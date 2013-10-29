@@ -1,7 +1,2 @@
-lijianchao
-==========
-int main (int argc, char* argv[]) 
-{
-  printf("hello world\r\n");
-  return 0;
-}
+feman5012
+00
