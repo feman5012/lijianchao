@@ -1,0 +1,1 @@
+acrony			Dash is an acronym for Debian Almquist shell(dash)
