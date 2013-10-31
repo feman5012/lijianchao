@@ -1,1 +1,14 @@
 acrony			Dash is an acronym for Debian Almquist shell(dash)
+lingo			The protocol core and general lingo
+weigh			their full implications must be understood and carefully weighed before choosing to do so
+contravene		"May" means that the indicated action or feature does not contravene this specification
+Deprecated		"Deprecated" marks an earlier technology that is no longer permitted in new accessory designs
+apostrophe		convert it into the simple apostrophe character
+legacy			Current Apple devices support Authentication 1.0 only as a legacy technology
+revoke			The lingo command availability will be revoked if the authentication process fails
+facilitate		It is sent merely to facilitate automatic baud rate detection and correction
+presume			A packet with an invalid checksum receieved by an Apple device is presumed to be invalid
+malforme		If a SetFIDTokenValues packet is malformed
+vehicle			show currently playing track information on the in-vehicle display
+steer			steering wheel mounted remote control
+
