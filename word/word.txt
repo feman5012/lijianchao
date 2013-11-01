@@ -14,4 +14,4 @@ steer			steering wheel mounted remote control
 excerpt			Song excerpt that was very end of the Bird and the Bee's rendition of Carol of the Bells
 merger			This is a perfect time of year to talk about the merry-marry-mary merger
 rhotic			Rhotic means that the r sound is pronounced when it occurs before a consonant sound
-
+tether			Remote Access to Tethered Software Files
