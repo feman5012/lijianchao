@@ -1,3 +1,4 @@
 http://blog.breadncup.com/2011/06/09/skip-git-ssl-verification/
 export GIT_SSL_NO_VERIFY=1
 http://www.vogella.com/articles/Git/article.html
+hello world
