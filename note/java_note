@@ -1,1 +1,7 @@
 http://askubuntu.com/questions/56104/how-can-i-install-sun-oracles-proprietary-java-6-7-jre-or-jdk
+http://java.com/en/download/installed.jsp
+https://help.ubuntu.com/community/Java
+sudo apt-get install openjdk-6-jre icedtea6-plugin
+http://www.whatan00b.com/firefox-java-plugin-on-ubuntu-10-04/
+
+
