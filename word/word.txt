@@ -34,6 +34,22 @@ Renaissance
 hoof			The hooves of an animal such as a horse are the hard lower parts of its feet
 sculptor		people who makes sculpture
 practitioner		Doctors are sometimes refered to as practitioners or medical practioners
+narrate			to provide spoken commentary for (as a movie or television show)
+psychology
+interpretation		explanation
+narrow			
+doable
+astronomy
+mythology		a branch of knowledge that deals with myth
+Jupiter			the largest of the planets and fifth in order from the sun
+oral
+staff
+semester		
+thesis
+master			a person holding an academic degree higher than a bachelor's but lower than a doctor's
+poetry
+poem			a composition in verse
+
 
 
 
