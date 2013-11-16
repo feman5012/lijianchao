@@ -49,6 +49,11 @@ thesis
 master			a person holding an academic degree higher than a bachelor's but lower than a doctor's
 poetry
 poem			a composition in verse
+registrar		an official recorder or keeper of records
+assignment
+inconvinient
+enroll			to insert, register, or enter in a list, catalog
+department
 
 
 
