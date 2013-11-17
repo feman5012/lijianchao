@@ -54,7 +54,39 @@ assignment
 inconvinient
 enroll			to insert, register, or enter in a list, catalog
 department
-
+archeology		the scientific study of material remains of past human life and activities
+volunteer		a person who voluntarily undertakes or expresses a willingness to undertake a service
+archeological
+relief			removal or lightening of something oppressive, painful, or distressing
+campus			the grounds and buildings of a university, college, or school
+erect			vertical in position
+excavate		to form a cavity or hole in
+artifact		an object remaining from a particular period
+bury			to cover from view
+pottery			the art or craft of the potter
+incentive		something that incites or has a tendency to incite to determination or action
+senior			a person with higher standing or rank
+cetacean
+whale
+porpoise
+dolphin
+mammal
+breathe			to draw air into and expel it from the lungs
+lung
+gill			an organ for obtaining oxygen from water
+hind			an animal's hind legs are at the back of its body
+fluke			
+disguise		to furnish with a false appearance or an assumed idenity
+affinity		relationship by marriage
+dwelling		a shelter in which people live
+otter			An otter is a small animal with brown fur, short legs, and a long tail
+pinniped		
+walrus			A walrus is a large, fat animal which lives in the sea. It has two long teeth called tusks that point downward
+limb			a leg or arm of a human being
+extinct			no longer burning
+marine			of or relating to the sea
+fossil			preserved from a past geologic
+intermediate		being or occuring at the middle place, stage, or degree
 
 
 
