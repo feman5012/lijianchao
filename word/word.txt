@@ -87,6 +87,49 @@ extinct			no longer burning
 marine			of or relating to the sea
 fossil			preserved from a past geologic
 intermediate		being or occuring at the middle place, stage, or degree
+Mercury			Mercury takes 59 days to make rotation but only 88 days to circle the sun
+Venus			Venus is the Brightest planet in the sky
+Earth			Three quarters of the Earth is covered by water
+Mars			Mars is home to "Olympus Mons", the largest volcano in the solar system
+Jupiter			Jupiter is the largest planet in the solar system
+Saturn			Saturn is the lightest planet in the solar system
+embed			to enclose closely in
+deposit			to let fall(as sediment)
+skull			the skeleton of the head
+archaeocyte		
+precious		of great value or high price
+jawbone
+breed			ro propagate
+feed			to give as food
+skeleton		something forming a structural framework
+sediment		the matter that settles to the bottom of a liquid
+toe			the fore end of a foot or hoof
+vestigial
+retain			to keep in possession or use
+locomotion		an act or the power of moving from place to place
+rear			to raise upright
+propulsion		the action or process of propelling
+contemporary
+tore
+controversial
+critic
+fuss
+premiere
+basement
+radical
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
