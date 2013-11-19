@@ -130,28 +130,110 @@ particle		a minute quantity or fragment
 absorb			to take in, acquire, learn
 substantial		consisting of or relating to substance
 raindrop		a drop of rain
-seal			
+seal			close
 penetration		to pass into or through
-diminished
+diminished		When something diminished, the become reduced in size, importance, or intensity
 aridity			excessively dry
-delicate		
+delicate		something that is delicate is small and beautifully shaped
 subject			one that is placed under authority or control
 excess			the state or an instance of surpassing usual, proper, or specified limits
 cultivation		
-graze
+graze			when animals graze or are grazed, you eat the grass or other plant that are growing in a particular place
 irrigation		the watering of land by artificial means to foster plant growth
 necessitate		
-devoid			
+devoid			if you say that someone or something is devoid of a quality or thing, you are emphasizing that they have none of it
 susceptible		capable of submitting to an action, process, or operation
 livestock		animals kept or raised for use or pleasure
-trampling		
-pulverization
-shrub
-salinization
-drainage
-evaporate
-millennia
-rigorously
+trampling		to trample on someone's rights or values means to deliberately ignore them
+pulverization		to pulverize something means to damage it completely
+shrub			shrub are plants that have several woody stems
+salinization		salt
+drainage		drainage is the system or process by which water or other liquids are drained from a place
+evaporate		when a liquid evaporates, it changes from a liquid state to gas
+millennia		thousands of years
+rigorously		a test, or a system that is rigorous is very thorough and strict
+emerge
+evolve
+peepshow
+project
+parlor
+arcade
+prizefight
+phonograph
+tube
+roughly
+apiece
+readily
+admission
+vaudeville
+legitimate
+fairground
+advent
+ultimate
+spectacle
+minstrel
+spectator
+marvel
+commonplace
+celluloid
+minuscule
+agression
+biological
+hypothalamus
+stimuli
+instinctive
+inborn
+moderate
+offshoot
+sociobiology
+genetically
+evolution
+possess
+outwit
+impulse
+pyschodynamic
+crucial
+inevitable
+frustration
+vent
+gratify
+repress
+pent
+steam
+verbal
+therapist
+catharsis
+cognitive
+intervene
+distort
+purge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
