@@ -152,61 +152,70 @@ drainage		drainage is the system or process by which water or other liquids are 
 evaporate		when a liquid evaporates, it changes from a liquid state to gas
 millennia		thousands of years
 rigorously		a test, or a system that is rigorous is very thorough and strict
-emerge
-evolve
-peepshow
-project
-parlor
-arcade
-prizefight
-phonograph
-tube
-roughly
-apiece
-readily
-admission
-vaudeville
-legitimate
-fairground
-advent
-ultimate
-spectacle
-minstrel
-spectator
-marvel
-commonplace
-celluloid
-minuscule
-agression
+emerge			to become manifest
+manifest		readily perceived by the senses and especially by the sense of sight
+evolve			develop
+peepshow		
+project			to cause light or shadow to fall on a surface
+parlor			a room used primarily for conversation or the reception of guests
+arcade			a long arched building or gallery
+prizefight		a professional boxing match
+phonograph		an instrument for reproducing sounds
+tube			any of various usually cylindrical structures or devices
+roughly			in a rough manner
+apiece			for each one
+readily			in a ready manner
+admission		a fee paid at or for admission
+vaudeville		stage entertainment consisting of various acts
+legitimate		
+fairground		an area where outdoor fairs are held
+advent			second coming
+ultimate		last in a progression or series
+spectacle		something exhibited to view as unusual, notable, or entertaining
+minstrel		musician
+spectator		one who looks on or watches
+marvel			one that causes wonder or astonishment
+commonplace		something commonly found
+celluloid		a motion-picture film
+minuscule		a lowercase letter
+agression		
 biological
 hypothalamus
-stimuli
-instinctive
-inborn
-moderate
-offshoot
-sociobiology
-genetically
-evolution
-possess
-outwit
-impulse
-pyschodynamic
-crucial
-inevitable
-frustration
-vent
-gratify
-repress
-pent
-steam
-verbal
-therapist
-catharsis
-cognitive
-intervene
-distort
-purge
+stimuli			things are incentive
+instinctive		of, relating to, or being instinct
+inborn			present from or as if from birth
+moderate		avoiding extremes of behavior or expression
+offshoot		a branch of a main stem especially of a plant
+sociobiology		
+genetically		relating to or determined by the origin
+evolution		a process of change in a certain direction
+possess			to have and hold as property
+outwit			to get the better of by superior cleverness
+impulse			a force so communicated as to produce motion suddenly
+pyschodynamic		
+crucial			important or essential as resolving a crisis
+inevitable		incapable of being avoided
+frustration		the act of frustrating
+vent			discharge
+gratify			satisfy
+repress			to prevent the natural or normal expression
+pent			repressed
+steam			a vapor arising from a heated substance
+verbal			spoken rather than written
+therapist		
+catharsis		purgation
+cognitive		of, relating to, being, or involving conscious intellectual activity
+intervene		to occur, fall, or come between points of time or events
+distort			to twist out of the true meaning or proportion
+purge			to clear of guilt
+due			having reached the date at which payment is required
+supreme			highest in rank
+court			a place for the administration of justice
+property		a quality or trait belonging and especially peculiar to an individual or thing
+municipal		internal affairs of a major political unit
+dispute			to engage in argument
+goofing			a silly or stupid person
+liberty			the quality or state of being free
 
 
 
