@@ -216,20 +216,193 @@ municipal		internal affairs of a major political unit
 dispute			to engage in argument
 goofing			a silly or stupid person
 liberty			the quality or state of being free
-overwhelmed
-understatement
-dorm
-socially
-counselor
-academic
-introductory
-impersonal
-artsy
-cello
-orchestra
-quartet
-cellist
-audition
-pursue
+overwhelmed		to overcome by superior force or numbers
+understatement		to state or present with restraint especially for effort
+dorm			a room for sleeping
+socially		in a social manner
+counselor		a person who gives advice or counseling
+academic		a member of an institution of learning
+introductory		of, relating to, or being a first step that sets something going or in proper perspective
+impersonal		having no personal reference or connection
+artsy			art
+cello			the bass member of the volin family tuned an octave below the viola		
+orchestra		a group of musicians
+quartet			a musical composition for four instruments or voices
+cellist			person who plays cello
+audition		the act of hearing
+pursue			to find or employ mearsures to obtain or accomplish
+artisan			one that produces something in limited quantity often using traditional methods
+impart			to communicate the knowledge of:disclose<imparted my shceme to no one>
+apprentice		an inexperienced person
+journeymen		a worker who has learned a trade and works for another person usually by the day
+article			an item of business
+merchant		a buyer and seller of commodity for profit
+capitalist		a person who has capital especially invested in business
+tend			to pay attention
+capital			
+supervise		watch	
+moral			of or relating to principles of right and wrong in behavior
+leisurely		time free from work or duties
+finished		marked by the highest quality
+craftsmanship		a worker who practices a trade or handicraft
+regimented		governmental rule
+absenteeism		absence
+lateness		
+disrupt			to break apart
+reveal			to make something secret or hidden publicly or generally know
+obedience		an act or instance of obeying
+superviso		one that supervise
+carpenter		a worker who builds or repairs wooden structures or their structural parts
+momentum		strenth or force gained by motion or by a series of events
+collapse		to break down completely
+spearhead		a leading element
+bond			
+laborer			human activity that provides the goods or services in an economy
+agitation		to move with irregular, rapid, or violent action
+resent			to feel or express annoyance or ill will
+ethnic			of or relating to large groups of people classed according to common racial
+racial			of, relating to, or based on a race
+antagonism		actively expressed opposition or hostility
+gender			sex
+occupational		an activity in which one engages
+loyalty			the quality or state or an instance of being loyal
+tactic			a device for accomplishing an end
+tuna			sport fishes
+mackerel		fish
+billfish
+marlin			any of several large marine billfishes
+sail			an extent of fabric by means of which wind is used to propel a ship through water
+sword			a weapon with a long blade for cutting or thrusting
+courtship		the act, process, or period of courting
+hydrodynamic		a branch of physics that deals with the motion of fluids
+resemble		to be like or similar to
+aerodynamic		a branch of physics that deals with the motion of air
+streamline		a smooth or flowing line designed as if for decreasing air resistance
+sleek			smooth and glossy as if polished
+compact			having a dense structure or parts or units closely packed or joined
+scale			
+slippery		tending to slip from the grasp
+flush			
+protrude		to thrust forward
+slick			to make sleek or smooth
+lid			eyelid
+stiff			not easily bent
+tuck			to pull up into a fold
+groove			a long narrow channel or depression
+depression		object below the horizon
+contour			an outline especially of a curving or irregular figure
+retract			to draw back or in
+gear			equipment
+sophisticate		to make compliated or complex
+slip			to move with a smooth sliding motion
+supersonic		of, being, or relating to speeds from one to five times the speed of sound in air
+needle			
+nose
+keel			the chief structural member of a boat or ship
+finlet			
+coarse			of ordinary or inferior quality or value
+corselet
+bladder			a membranous sac in animals that serves as the receptacle of a liquid
+sac			a pouch with an animal or plant often containing a fluid
+buoyant			capable of floating
+detract			to diminish the importance, value, or effectiveness of something
+slit			a long narrow cut or opening
+thrust			to push or drive with force
+envy			painful or resentful awareness of an advantage enjoyed by another joined with a desire to possess the same advantage
+swept-back		
+swirl			a whirling mass or motion
+eddy			circular current
+glide			to move smoothly, continuously, and effortlessly
+presidency		the term during which a president holds office
+democratic		of, relating to, or favoring democracy
+representative		one that represents another or others
+Senate			an assembly or council usually possessing high deliberative and legislative functions
+opponent		one that takes an opposite position
+Whig			American political party
+planter			one that cultivates plants
+greedy			having or showing a selfish desire for wealth and possessions
+aristocrat		a member of an aristocracy
+aristocracy		government by the best individuals or by a small privileged class
+manipulate		to treat or operate with or as if with the hands or by mechanical means especially in a skillful manner
+sap			
+virtue			a particular moral excellence
+speculation		an act or instance of speculating
+sacrifice		something offered in sacrifice
+dominance		the fact or state of being dominant
+civilization		a relatively high level of cultural and technological development
+envision		to picture to oneself
+inclination		a tendency to a particular aspect, state, character, or action
+monopoly		exclusive possession or control
+philosophy		pursuit of wisdon
+sphere			
+humanitarian		a person promoting human welfare and social reform
+legislation		the action of legislating
+foster			affording, receiving, or sharing nurture or parental care though not related by blood or legal ties
+disproportionate	being out of proportion
+surplus			the amount that remains when use or need is satisfied
+alienate		to make unfriendly, hostile, or indifferent especially where attachment formerly existed
+entrepreneur		one who organizes, manages, and assumes the risks of a business or enterprise
+semisubsistence		the condition of remaining in existence
+languishing		to be or live in a state of depression or decreasing vitality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
