@@ -50,7 +50,7 @@ master			a person holding an academic degree higher than a bachelor's but lower 
 poetry
 poem			a composition in verse
 registrar		an official recorder or keeper of records
-assignment
+assignment		a specific task or amount of work
 inconvinient
 enroll			to insert, register, or enter in a list, catalog
 department
@@ -344,6 +344,83 @@ alienate		to make unfriendly, hostile, or indifferent especially where attachmen
 entrepreneur		one who organizes, manages, and assumes the risks of a business or enterprise
 semisubsistence		the condition of remaining in existence
 languishing		to be or live in a state of depression or decreasing vitality
+appreciation		an expression of admiration
+concentrate		to bring or direct toward a common center or objective
+Lord			one having power and authority over others
+approach		an act or instance of approaching
+progress		to move forward
+principal
+terrain
+landform
+epitome
+permanenc
+relic
+orogeny
+coastal
+plateau
+crust
+segment
+plate
+plastic
+margin
+seabed
+altitude
+fracture
+displace
+volcanic
+belt
+lava
+volcano
+fragment
+temporary
+battle
+penetrate
+seep
+debri
+shatter
+frost
+glacier
+valley
+bombard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
