@@ -349,92 +349,92 @@ concentrate		to bring or direct toward a common center or objective
 Lord			one having power and authority over others
 approach		an act or instance of approaching
 progress		to move forward
-principal
-terrain
-landform
-epitome
-permanenc
-relic
-orogeny
-coastal
-plateau
-crust
-segment
-plate
-plastic
-margin
-seabed
-altitude
-fracture
-displace
-volcanic
-belt
-lava
-volcano
-fragment
-temporary
-battle
-penetrate
-seep
-debri
-shatter
-frost
-glacier
-valley
-bombard
-saturate
-meteoric
-soak
-precipitation
-grain
-pebble
-gravel
-steadily
-melt
-lade
-outwash
-fanwise
-slope
-thick
-overlie
-sandbar
-consolidate
-cement
-pore
-percolating
-afterwards
-sandstone
-porous
-crystalline
-basalt
-bubble
-porosity
-permeability
-ease
-cavity
-crevice
-cling
-film
-champion
-anthropologist
-ritual
-perceive
-attribute
-favor
-ceremony
-costume
-causal
-rite
-devoorce
-autonomous
-efficacious
-propose
-recalling
-feat
-elaborate
-pantomime
-impersonation
-pantomimic
+principal		most important
+terrain			the physical features of a tract of land
+landform		a natural feature of a land surface
+epitome			a brief presentation or statement of something
+permanenc		the quality or state of being permanent
+relic			a survior or remnant left after decay, disintegration, or disapperance
+orogeny			the process of mountain formation esepcially by folding of the earth's crust
+coastal			the land near a shore
+plateau			a usually extensive land area having a relatively level surface raised sharply above adjacent land on at least one side
+crust			a hard surface layer
+segment			a seprate piece of something
+plate			a smooth flat thin piece of material
+plastic			capable of adapting to varying conditions
+margin			the part of a page or sheet outside the main body of printed or written matter
+seabed			the floor of a sea or ocean
+altitude		vertical distance or extent
+fracture		the act or process of breaking or the state of being broken
+displace		to remove from the usual or proper place
+volcanic		of, relating to, or produced by volcano
+belt			a strip of flexible material
+lava			molten rock that issues from a volcano
+volcano			a vent in the crust of the earth or another planet or a moon from which usually molten or hot rock and steam issue
+fragment		a part broken off, detached, or incomplete
+temporary		lasting for a limited time
+battle			a combat between two persons
+penetrate		to pass into or through
+seep			to flow or pass slowly through fine pores or small openings
+debri			the remains of something broken down or destroyed
+shatter			to break at once into pieces
+frost			the process of freezing
+glacier			a large body of ice moving slowly down a slope or valley or spreading outward on a land surface
+valley			an elongate depression of the earth's surface usually between ranges of hills or mountains
+bombard			to subject to the impact of rapidly moving particles
+saturate		to satisfy fully
+meteoric		of or relating to a meteor
+soak			become saturated by or as if by immersion
+precipitation		the quality or state of being precipitate
+grain			a small hard particle or crystal
+pebble			a small usually rounded stone especially when worn by the action of water
+gravel			loose rounded fragments of rock
+steadily		firm in position
+melt			to become altered from a solid to a liquid state usually by heat
+lade			to put a load or burden on or in
+outwash			detritus consisting chiefly of gravel and sand carried by running water from the melting ice of a glacier
+fanwise			in the manner or position of the slats of an open fan
+slope			ground that forms a natural or artificial incline
+thick			having or being of relatively great depth or extent from one surface to its opposite
+overlie			to lie over or upon
+sandbar			a ridge of sand built up by currents especially in a river or in coastal waters
+consolidate		to join together into one whole
+cement			a substance to make objects adhere to each other
+pore			a minute opening especially in an animal or plant
+percolating		
+afterwards		at a later or succeeding time
+sandstone		a sedimentary rock consisting of usually quartz sand united by some cement
+porous			possessing or full of pores
+crystalline		made of crystal
+basalt			rock
+bubble			a small body of gas within a liquid
+porosity		the quality or state of being porous
+permeability		the quality or state of being permeable
+ease			the state of being comfortable
+cavity			an unfilled space within a mass
+crevice			a narrow opening resulting from a split or crack
+cling			to adhere as if glued firmly
+film			a thin skin
+champion		support
+anthropologist		people who engages in the science of human beings
+ritual			of or relating to rites or a ritual
+perceive		to attain awareness or understanding of
+attribute		an inherent characteristic
+favor			approving consideration or attention
+ceremony		
+costume			an outfit worn to create the apperance characteristic of a particular period, person, place, or thing
+causal			expressing or indicating cause
+rite			a ceremonical act or action
+devorce			
+autonomous		of, relating to, or marked by autonomy 	
+efficacious		having the power to produce a desired effect
+propose			to form or put forward a plan or intention
+recalling		to call back
+feat			notable act
+elaborate		planned or carried out with great care
+pantomime		any of various dramatic or dancing performances in which a story is told by expressive bodily or facial movements 
+impersonation		to assume or act the character of 
+pantomimic		
 gymnastic
 imitation
 admiration
