@@ -434,58 +434,58 @@ feat			notable act
 elaborate		planned or carried out with great care
 pantomime		any of various dramatic or dancing performances in which a story is told by expressive bodily or facial movements 
 impersonation		to assume or act the character of 
-pantomimic		
-gymnastic
-imitation
-admiration
-virtuosity
-antecedent
-cease
-fantasy
-fiction
-confront
-penchant
-deviation
-ridiculous
-aesthetic
-ascribe
-hypothetical
-timberline
-tundra
-herb
-steppe
-moisture
-tropic
-subtropic
-deciduous
-birch
-twist
-deform
-latitude
-attain
-velocity
-prone
-cessation
-smother
-avalanch
-creep
-seeding
-ultraviolet
-elevation
-ibex
-bud
-mature
-alpine
-diversity
-moss
-lichen
-prostrate
-cushion
-striking
-rigor
-insulation
-equatorial
-prevalent
+pantomimic			
+gymnastic		of or relating to gymnastics
+imitation		an act or instance of imitating
+admiration		delighted or astonished approbation
+virtuosity		great technical skill
+antecedent		ancestors, parents
+cease			to cause to come to an end and especially gradually
+fantasy			the power or process of creating especially unrealistic or improbable mental images in response to psychological need
+fiction			something invented by the imagination
+confront		to face especially in challenge
+penchant		a strong and continued inclination
+deviation		an act or instance of deviating
+ridiculous		extremely silly or unreasonable
+aesthetic		of, relating to, or dealing with aesthetics or beautiful
+ascribe			to refer to a supposed cause, source, or author
+hypothetical		being or involving a hypothesis
+timberline		the upper limit of arboreal growth in mountains or high latitudes
+tundra			a similar region confined to mountainous areas above timberline
+herb			a plant or plant part valued for its medicinal qualities
+steppe			
+moisture		liquid diffused or condensed in relatively small quantity
+tropic			either of the two parallels of terrestrial latitude at a distance of about 23 1/2
+subtropic		of, relating to, or being the regions bordering on the tropical zone
+deciduous		falling off or shed seasonally or at a certain stage of development in the life cycle
+birch			
+twist			to unite by winding
+deform			to spoil the form of
+latitude		angular distance from some specified circle or plane of reference
+attain			to reach as an end
+velocity		quickness of motion
+prone			having a tendency or inclination: being likely
+cessation		a temporary or final ceasing
+smother			a state of being stifled or suppressed
+avalanche		a large mass of snow, ice, earth, rock, or other material in swift motion down a nountainside or over a precipice
+creep			to move along with the body prone and close to the ground
+seeding			the grains or ripened ovules of plants for sowing
+ultraviolet		situated beyond the visible spectrum at its violet end
+elevation		the angular distance of something above the horizon
+ibex			any of several wild goats
+bud			a small lateral or terminal protuberance on the stem of a plant that may develop into a flower leaf, or shoot
+mature			having completed natural growth and development
+alpine			a person possessing Alpine physical characteristics
+diversity		the condition of having or being composed of differing elements
+moss			
+lichen			
+prostrate		stretched out with face on the ground in adoration or submission
+cushion			a soft pillow or pad usually used for sitting, reclining, or kneeling
+striking		attracting attention or notice through unusual or conspicuous qualities
+rigor			an act or instance of strictness, severity, or cruelty
+insulation		the action of insulating
+equatorial		of, relating to, or located at the equator or an equator
+prevalent		generally or widely accepted, practiced, or favored
 
 
 
