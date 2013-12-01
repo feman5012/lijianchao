@@ -12,10 +12,10 @@ DIRS := src
 SRCS := main.c
 OBJS := $(SRCS:.c=.o) 
 DEPS := $(SRCS:.c=.d)
-LIBS := $(shell find ./lib/ -name '*.a')
-LIBS := $(notdir $(LIBS))
-LIBS := $(patsubst lib%.a,%,$(LIBS))
-LIBS := $(addprefix -l, $(LIBS))
+#LIBS1 = $(shell find ./lib/ -name '*.a')
+#LIBS2 = $(notdir $(LIB1))
+#LIBS3 = $(patsubst lib%.a,%,$(LIBS2))
+LIBS = $(addprefix -l, $(patsubst lib%.a,%,$(notdir $(shell find ./lib/ -name '*.a'))))
 TARGET := prog
 
 
@@ -37,7 +37,7 @@ $(DEPS): %.d: %.c
 
 
 pack: FORCE
-	$(CC)  -g $(OBJS) -L$(LIB_PATH) $(LIBS) -o $(TARGET) 
+	$(CC)  -g -L$(LIB_PATH) $(LIBS) $(OBJS)  $(LIBS) -o $(TARGET) 
 
 FORCE:
 
