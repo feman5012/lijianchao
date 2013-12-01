@@ -32,6 +32,18 @@ msn
 5012@hotmail.com
 222
 
+------------------------------------------------------
+readability
+feman5012
+ylz
+http://www.readability.com
+------------------------------------------------------
+readability
+feman5013
+ylz
 
-
-
+------------------------------------------------------
+pocket
+feman5012
+ylz
+http://getpocket.com
