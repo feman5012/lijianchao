@@ -486,49 +486,49 @@ rigor			an act or instance of strictness, severity, or cruelty
 insulation		the action of insulating
 equatorial		of, relating to, or located at the equator or an equator
 prevalent		generally or widely accepted, practiced, or favored
-coupon
-habitual
-citation
-snorkel
-convict
-puzzle
-loft
-reinforce
-trial
-aspiration
-counterpart
-puff
-pun
-bun
-duck
-puck
-buck
-boast
-poll
-tote
-dote
-subscriper
-stereotype
-errand
-odd
-articulate
-stir
-incumbent
-mayor
+coupon			a part of a printed advertisement to be cut off to use as an order blank or inquiry form or to obtain a discount
+habitual		have the nature of a habit
+citation		an act of quoting
+snorkel			
+convict			to find or prove to be guilty
+puzzle			to solve with difficulty
+loft			an upper room or floor
+reinforce		make stronger or more pronounced
+trial			test
+aspiration		audible breath that accompanies or comprises a speech sound
+counterpart		a thing that fits another perfectly
+puff			to blow in short gusts
+pun			the usually humorous use of a word in such a way as to suggest two or more of its meanings
+bun			a sweet or plain small bread
+duck			swimming birds
+puck			a vulcanized rubber disk used in ice hockey
+buck			a male animal
+boast			to puff oneself up in speech
+poll			vote
+tote			to carry by hand
+dote			to be lavish or excessive in one's attention
+subscriper		to sign one's name to a document
+stereotype		to repeat without variation
+errand			an oral message entrusted to a person
+odd			somewhat more than the indicated approximate quanity, extent, or degree
+articulate		divided into syllables or words meaningfully arranged
+stir			to cause an especially slight movement or change of position of
+incumbent		one that occupies a particular position or place
+mayor			an official elected or appointed to act as chief executive head of a city
 vitamin
-texture
-shelter
-feasible
+texture			something composed of closely interwoven elements
+shelter			something that covers or affords protection
+feasible		capable of being done or carried out
 mediocre
-devise
-integral
-interior
-plumbing
-igloo
-adobe
-arduous
-beam
-borne
+devise			to form in the mind by new combinations or applications of ideas or principles
+integral		essential to completeness
+interior		the inner nature
+plumbing		a lead weight attached to a line and used to indicate a vertical direction
+igloo			an Eskimo house usually made of snow or ice
+adobe			a brick or building material of sun-dried earth and straw
+arduous			hard to accomplish or achieve
+beam			a long piece of heavy often squared timber suitable for use in construction
+borne			bear
 
 
 
