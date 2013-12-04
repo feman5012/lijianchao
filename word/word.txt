@@ -529,86 +529,86 @@ adobe			a brick or building material of sun-dried earth and straw
 arduous			hard to accomplish or achieve
 beam			a long piece of heavy often squared timber suitable for use in construction
 borne			bear
-intrigue
-accommodation
-depletion
-aquifer
-rancher
-cattle
-ensuing
-spray
-liter
-cutton
-sorghum
-corn
-unprecedented
-negligible
-replenish
-drastically
-withdrawal
-grandiose
-canal
-tenfold
-capillary
-triple
-flexibly
-succession
-climax
-cumulative
-invasion
-pest
-disturb
-resilience
-pale
-niche
-vacate
-intact
-abolish
-abolition
-abound
-abrasion
-abreast
-abrupt
-absurd
-acclaim
-accuse
-acoustic
-acquaint
-acute
-additive
-adequate
-adhesive
-adjunct
-adolescence
-adorn
-adverse
-aerial
-aerobic
-affection
-affirm
-afflict
-aggregate
-agreeable
-alert
-algebra
-alien
-alkali
-allay
-allegory
-allergy
-alleviate
-alloy
-aluminum
-amateur
-amid
-amino
-amnesia
-ample
-amuse
-anatomy
-antibiotic
-anticipate
-antique
+intrigue		to arouse the interest, desire, or curiosity of
+accommodation		adaptation, adjustment
+depletion		to lessen markedly in quantity, content, power, or value
+aquifer			a water-bearing stratum of permeable rock, sand, or gravel
+rancher			one who owns or works on a ranch
+cattle			domesticated quardrupeds held as property or raised for use
+ensuing			to take place afterward or as a result
+spray			to emit a stream
+liter			a metric unit of capacity equal to one cubic decimeter
+cotton			a soft usually white fibrous substance composed of the hairs surrounding the seeds
+sorghum			
+corn			a tall annual cereal grass
+unprecedented		having no precedent
+negligible		so small or unimportant
+replenish		to fill or build up again
+drastically		extreme in effect or action
+withdrawal		the act of taking back or away something that has been granted or possessed
+grandiose		impressive because of uncommon largeness, scope, effect
+canal			passage or channel
+tenfold			having 10 units or members
+capillary		resembling a hair especially in slender elongated form
+triple			to make three times as great or as many
+flexibly		capable of being flexed
+succession		the act or process of following in order
+climax			the highest point
+cumulative		increasing by successive additions
+invasion		the incoming or spread of something usually hurtful
+pest			
+disturb			to interfere with
+resilience		the capability of a strained body to recover its size and shape after deformation
+pale			
+niche			the ecological role of an organism in a community especially in regard to food consumption
+vacate			to give up the incumbency or occupancy of
+intact			untouched especially by anything that harms or diminishes
+abolish			destroy
+abolition		the act of abolishing
+abound			to be present in large numbers or in great quantity
+abrasion		a wearing, grinding, or rubbing away by friction
+abreast			beside one another with bodies in line
+abrupt			lacking smoothness or continuity
+absurd			ridiculously unreasonable, unsound, or incongruous
+acclaim			applaud, praise
+accuse			to charge with a fault or offense
+acoustic		of or relating to the sense or organs of hearing
+acquaint		to make familiar
+acute			ending in a sharp point
+additive		a substance added to another in relatively small amounts to effect a desired change in properties
+adequate		sufficient for a specific requirement
+adhesive		tending to adhere
+adjunct			something joined or added to another thing but not essentially a part of it
+adolescence		the state or process of growing up
+adorn			to enhance the apperance of especially with beautiful objects
+adverse			acting against or in a contrary direction
+aerial			of, relating to, or occurring in the air or atmosphere
+aerobic			living, active, or occuring only in the presense of oxygen
+affection		a moderate feeling or emotion
+affirm			validate, confirm
+afflict			to distress so severely as to cause persistent suffering or anguish
+aggregate		formed by the collection of units or particles into a body
+agreeable		pleasing to the mind or senses especially as according well with one's tastes or needs
+alert			watchful and prompt to meet danger or emergency
+algebra			a generalization of arithmetic in which letters representing numbers are combined according to the rules of arithmetic
+alien			
+alkali			a soluble salt
+allay			to make quiet
+allegory		a symbolic representation
+allergy			altered bodily reactivity to an antigen in response to a first exposure
+alleviate		relieve, lessen
+alloy			a substance composed of two or more metals
+aluminum		
+amateur			one who engages in a pursuit, study, or sport as a pastime rather than as a profession
+amid			in or into the middle of
+amino			relating to, being, or containing an amine group
+amnesia			loss of memory due to brain injury
+ample			generous or more than adequate in size, scope
+amuse			to entertain or occupy in a light, playful, or pleasant manner
+anatomy			a branch of morphology that deals with the structure of organisms
+antibiotic		tending to prevent, inhibit, or destroy life
+anticipate		to give advance thought, discussion, or treatment to
+antique			a relic or object of ancient times
 
 
 
