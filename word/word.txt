@@ -634,6 +634,71 @@ indigestible		not easily digested
 longevity		a long duration of individual life
 acron			the nut of the oak
 predation		the act of preying or plundering
+appetite
+aquarium
+aquatic
+array
+ascending
+asteroid
+symmetrical
+attorney
+elegible
+auction
+audit
+auditorium
+augment
+sanction
+avenue
+avert
+aviation
+awful
+awkward
+babylonian
+balcony
+bald
+barb
+barbecue
+barge
+bark
+barn
+barrel
+barren
+barter
+basin
+bead
+beak
+beaver
+benign
+besiege
+beverage
+bias
+bind
+bison
+blade
+bland
+blast
+bleach
+blip
+blizzard
+bloom
+blossom
+blur
+bog
+bond
+boom
+botany
+boulder
+breeze
+brittle
+brochure
+buffalo
+bulb
+bulk
+bump
+bureau
+burgeon
+burrow
+cabin
 
 
 
