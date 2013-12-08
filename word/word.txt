@@ -634,71 +634,166 @@ indigestible		not easily digested
 longevity		a long duration of individual life
 acron			the nut of the oak
 predation		the act of preying or plundering
-appetite
-aquarium
-aquatic
-array
-ascending
-asteroid
-symmetrical
-attorney
-elegible
-auction
-audit
-auditorium
-augment
-sanction
-avenue
-avert
-aviation
-awful
-awkward
-babylonian
-balcony
-bald
-barb
-barbecue
-barge
-bark
-barn
-barrel
-barren
-barter
-basin
-bead
-beak
-beaver
-benign
-besiege
-beverage
-bias
-bind
-bison
-blade
-bland
-blast
-bleach
-blip
-blizzard
-bloom
-blossom
-blur
-bog
-bond
-boom
-botany
-boulder
-breeze
-brittle
-brochure
-buffalo
-bulb
-bulk
-bump
-bureau
-burgeon
-burrow
-cabin
+appetite		any of the instinctive desires necessary to keep up organic life
+aquarium		
+aquatic			growing or living in or frequenting water	
+array			to set or set forth in order	
+ascending		to move upward
+asteroid		any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter
+symmetrical		having, involving, or exhibiting symmetry
+attorney		one who is legally appointed to transact business on another's behalf
+elegible		
+auction			a sale of property to the highest bidder
+audit			a formal examination of an organization's individual's accounts or financial situation
+auditorium		the part of a public building where an audience sits
+augment			to make greater, more numerous, larger, or more intense
+sanction		a formal decree
+avenue			a way of acess
+avert			to turn away or aside in avoidance
+aviation		airplane manufacture, development, and design
+awful			filled with awe
+awkward			showing the result of a lack of expertness
+babylonian		a native or inhabitant of ancient Babylonia
+balcony			a platform that projects from the wall of a building and is enclosed by a parapet or railing
+bald			lacking a natural or usual covering
+barb			a sharp projetion extending backward and preventing easy extraction
+barbecue		a large animal roasted whole or split over an open fire or a fire in a pit
+barge			any of various boats
+bark			to make a noise resembling a bark
+barn			a usually large building for the storage of farm products or feeds
+barrel			a round bulging vessel of greater length than breadth
+barren			not reproducing
+barter			to trade by exchanging one commodity for another
+basin			an open usually circular vesel with sloping or curving sides used typically for holding water for washing
+bead			a small piece of material pierced for threading on a string or wire
+beak			a pointed structure or formation
+beaver			the fur or pelt of the beaver
+benign			showing kindness and gentleness
+besiege			to surround with armed forces
+beverage		a drinkable liquid
+bias			
+bind			to make secure by tying
+bison			
+blade			something resembling the blade of a leaf
+bland			bland film
+blast			a violent gust of wind
+bleach			to remove color or stains from
+blip			a trace on a display screen especially a spot on a radar screen
+blizzard		a long severe snowstorm
+bloom			th flowering state
+blossom			the state of bearing flowers
+blur			a smear or stain
+bog			wet spongy ground
+bond			a binding agreement
+boom			a make a deep hollow sound
+botany			a branch of biology dealing with plant life
+boulder			a detached and rounded rock
+breeze			a light gentle wind
+brittle			easily borken, cracked, or snapped
+brochure		booklet
+buffalo			water buffalo
+bulb			a resting stage of a plant that is usually formed underground
+bulk			spatial dimension
+bump			to strike or knock with force or violence
+bureau			a specialized administrative unit
+burgeon			to send forth new growth
+burrow			a hole or excavation in the ground made by an animal for shelter and habitation
+cabin			a private room on a ship or boat
+cabinet
+cactus
+cafeteria
+calcium
+calculus
+camouflage
+candidate
+cannibalism
+canyon
+cape
+captive
+cardiac
+cardinal
+cargo
+caribou
+carnivore
+carp
+cart
+cartilage
+carve
+cascara
+casssette
+catalyst
+catastrophe
+caterpillar
+celestial
+census
+centennial
+ceramic
+cereal
+chafe
+chamber
+chaos
+chapel
+charcoal
+charter
+checked
+chill
+chimpanzee
+chlorine
+choir
+cholesterol
+choreographer
+chorus
+chromosome
+chronical
+circumference
+civilian
+clam
+clamor
+cliff
+clinical
+clipper
+clump
+clumsy
+clutch
+cognition
+coherent
+cohesion
+coil
+conincide
+collaborator
+melody
+collide
+colonize
+colony
+combat
+combustible
+commermorate
+commission
+charity
+commondity
+community
+commute
+compass
+compatible
+compel
+compensate
+complement
+compliment
+comply
+compound
+compulsory
+concede
+conceive
+conclusive
+condensation
+condense
+conductivity
+confederacy
+confer
+
+
+
+
 
 
 
