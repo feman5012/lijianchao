@@ -699,24 +699,24 @@ bureau			a specialized administrative unit
 burgeon			to send forth new growth
 burrow			a hole or excavation in the ground made by an animal for shelter and habitation
 cabin			a private room on a ship or boat
-cabinet
-cactus
-cafeteria
-calcium
-calculus
-camouflage
-candidate
-cannibalism
-canyon
-cape
+cabinet			a case or cupboard usually having doors and shelves
+cactus			any of a family of plants that have succulent stems and branches with scales or spines instead of leaves
+cafeteria		a restaurant in which the customers serve themselves or are served at a counter and take the food to tables to eat
+calcium			
+calculus		a method of computation or calculation in a special notation
+camouflage	
+candidate		one likely or suited to undergo or be chosen for something specified
+cannibalism		the usually ritualistic eating of human flesh by a human being
+canyon			a deep narrow valley with steep sides and often with a stream flowing through it
+cape			a point or extension of land jutting out into water as a peninsula or as a projecting point
 captive
 cardiac
 cardinal
-cargo
+cargo			the goods or merchandise conveyed in a ship, airplane, or vehicle
 caribou
 carnivore
-carp
-cart
+carp			to find fault
+cart			a lightweight 2-wheeled vehicle drawn by a horse, pony, or dog
 cartilage
 carve
 cascara
@@ -725,13 +725,13 @@ catalyst
 catastrophe
 caterpillar
 celestial
-census
-centennial
-ceramic
-cereal
-chafe
-chamber
-chaos
+census			a periodic governmental enumeration of population
+centennial		a 100th anniversay or its celebration
+ceramic			of or relating to the manufacture of any product made essentially from a nonmetallic mineral by firing at a high temp
+cereal			relating to grain or to the plants that produce it
+chafe			to warm by rubbing especially with the hands
+chamber			a natural or artificial enclosed space or cavity
+chaos			a confused mass or mixture
 chapel
 charcoal
 charter
@@ -756,40 +756,40 @@ clump
 clumsy
 clutch
 cognition
-coherent
-cohesion
-coil
-conincide
-collaborator
-melody
-collide
-colonize
-colony
-combat
-combustible
-commermorate
-commission
-charity
-commondity
-community
-commute
-compass
-compatible
-compel
-compensate
-complement
-compliment
-comply
-compound
-compulsory
-concede
-conceive
-conclusive
-condensation
-condense
-conductivity
-confederacy
-confer
+coherent		logically or aesthetically ordered or integrated
+cohesion		the act or state of sticking together tightly
+coil			to wind into rings or spirals
+conincide		to occupy the same place in space or time
+collaborator		
+melody			a sweet or agreeable succession or arrangement of sounds
+collide			to come together with solid or direct impact
+colonize		to establish a colony
+colony			a body of people living a new territory but retaining ties with the parent state
+combat			a fight or contest between individuals or groups
+combustible		capable of combustion
+commermorate		
+commission		a formal written warrant granting the power to perform various acts or duties
+charity			an institution engaged in relief of the poor
+commodity		an economic good
+community		a unified body of individuals
+commute			to travel back and forth regularly
+compass			
+compatible		capable of existing together in harmony
+compel			to cause to do or occur by overwhelming pressure
+compensate		to make an appropriate and usually conterbalancing payment to
+complement		the quanity, number, or assortment required to make a thing complete
+compliment		an expression of esteem, respect, affection, or admiration
+comply			to conform, submit, or adapt as required or requested
+compound		to put together so as to form a whole
+compulsory		mandatory, enforced
+concede			to accept as true, valid, or accurate
+conceive		to become pregnant with young
+conclusive		putting an end to debate or question especially by reason of irrefutability
+condensation		the act or process of condensing
+condense		to make denser or more compact
+conductivity		the quality or power of conducting or transmitting
+confederacy		a league or compact for mutual support or common action
+confer			to compare views or take counsel
 
 
 
