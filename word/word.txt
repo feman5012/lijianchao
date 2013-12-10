@@ -790,90 +790,90 @@ condense		to make denser or more compact
 conductivity		the quality or power of conducting or transmitting
 confederacy		a league or compact for mutual support or common action
 confer			to compare views or take counsel
-essay
-overheard
-retirement
-faculty
-glory
-versatile
-ethnology
-fascinating
-congenial
-congestion
-consent
-neat
-dignity
-tuition
-constellation
-constituent
-constrain
-constricted
-asthmatic
-insult
-contagious
-contaminate
-continent
-convection
-converge
-converse
-jury
-coral
-corona
-correspondence
-corrosion
-cosmic
-cosmos
-counteract
-crab
-cramped
-crater
-crawl
-diploma
-crew
-crippling
-crow
-crude
-crusade
-crustacean
-cube
-cue
-cumbersome
-cuneiform
-curriculum
-dam
-damp
-dawn
-dazzle
-debris
-debut
-decay
-deceive
-decent
+essay			an result or product of an attempt
+overheard		to hear without the speaker's knowledge or intention
+retirement		the state of being retired
+faculty			a branch of teaching or learning in an educational institution
+glory			praise, honor, or distinction extended by common consent
+versatile		changing or fluctuating readily
+ethnology		a science that deals with the division of human beings into races and their origin, distribution, relations
+fascinating		to transfix and hold spellbound by an irresistible power
+congenial		having the same nature, disposition, or tastes
+congestion		to concentrate in a small or narrow space
+consent			to give assent or approval
+neat			free from dirt and disorder
+dignity			the quality or state of being worthy, honored, or esteemed
+tuition			the price of or payment for instruction
+constellation		the configuration of stars especially at one's birth
+constituent		one who authorizes another to act as agent
+constrain		to force by imposed stricture, restriction, or limitation
+constricted		to make narrow or draw together
+asthmatic		a chronic lung disorder
+insult			to treat with insolence, indignity, or contempt
+contagious		communicable by contact
+contaminate		to soil, stain, corrupt, or infect by contact or association
+continent		mailand
+convection		the transfer of heat by convection, compar conduction radiation
+converge		to tend or move toward one point or one another
+converse		to exchange thoughts and opinions in speech
+jury			a body of persons sworn to give a verdict on some matter submitted to them
+coral			
+corona			a usually colored circle often seen around and close to a luminous body
+correspondence		the agreement of things with one another
+corrosion		the action, process, or effect of corroding
+cosmic			of or relating to the cosmos
+cosmos			universe
+counteract		to make ineffective or restrin or neutralize the usually ill effects of by means of an opposite force, action
+crab			
+cramped			hard to understand or figure out
+crater			a depression formed by an impact
+crawl			to move slowly in a prone position without or as if without the use of limbs	
+diploma			a document bearing record of graduation from or of a degree conferred by an educational institution
+crew			a group of people associated together in a common activity or by common traits or interests
+crippling		one that is disabled or deficient in a specific manner
+crow			any of various large usually entirely glossy black passerine birds
+crude			existing in a natural state and unaltered by cooking or processing
+crusade			any of the military expeditions undertaken by Christian powers in the 11th, 12th, and 13th centuries to win the Holy Land
+crustacean		
+cube			the product of a number multiplied by itself twice
+cue			a signal to a performer to begin a specific speech or action
+cumbersome		burdensome
+cuneiform		having the shape of wedge
+curriculum		the courses offered by an educational instituion
+dam			a body of water confined by a barrier
+damp			moisture
+dawn			to begin to grow light as the sun rises
+dazzle			to lose clear vision especially from looking at bright light
+debris			the remains of something broken down or destroyed
+debut			a first appearance
+decay			to decline in health, strength, or vigor
+deceive			to cause to accept as true or valid what is false or invalid
+decent			conforming to standards of propriety, good state, or morality
 decipher
-defect
-fence
-deficient
-delegate
-savory
-bucket
-delta
-demolish
-wax
-dentist
-depict
-deprive
-derive
-descent
-deserve
-designate
-stipulate
-desolate
-destined
-fungi
-detective
-deter
-detest
-devastate
+defect			an imperfection that impairs worth or utility
+fence			to barrier intended to prevent escape or intrusion or to mark a boundary
+deficient		not up to a normal standard or complement
+delegate		a person acting for another
+savory			a particular flavor or smell
+bucket			a typically cylindrical vessel for catching, holding, or carrying liquids or solids
+delta			the 4th letter of the Greek alphabet
+demolish		to break to pieces
+wax			
+dentist			one who is skilled in and licensed to practice the prevention of the teeth
+depict			to represent by or as if by a picture
+deprive			to take someting away from
+derive			to obtain actually or theoretically from a parent substance
+descent			derivation from an ancestor
+deserve			to be worthy of
+designate		chosen but not yet installed
+stipulate		to demand an express term in an agreement
+desolate		devoid of inhabitants and visitors
+destined		predetermine
+fungi			
+detective		one employed or engaged in detecting lawbreakers or in getting information that is not readily or publicly accessible
+deter			prevent from acting
+detest			to feel intense and often violent antipathy toward
+devastate		to bring to ruin or desolation by violent action
 
 
 
