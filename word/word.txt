@@ -749,7 +749,7 @@ circumference
 civilian
 clam
 clamor
-cliff
+cliff			a very steep, vertical, or overhanging face of rock, earth, or ice
 clinical
 clipper
 clump
@@ -874,34 +874,35 @@ detective		one employed or engaged in detecting lawbreakers or in getting inform
 deter			prevent from acting
 detest			to feel intense and often violent antipathy toward
 devastate		to bring to ruin or desolation by violent action
-devour
-diagonal
-diameter
-dictate
-diction
-diffuse
-degest
-dilemma
-dilute
-dim
-oxide
-diplomat
-handicap
-discern
-discrimination
-disgust
-loathe
-smash
-disinterested
-gloomy
-dismal
-dismay
-dispose
+devour			to eat up greedily or ravenously
+diagonal		
+diameter		a chord passing through the center of figure or body
+chord			three or more musical tones sounded simultaneously
+dictate			
+diction			choice of words especially with regard to correctness, clearness, or effectiveness
+diffuse			to spread thinly or wasteful
+digest			a summation or condensation of a body of information
+dilemma			a usually undesirable or unpleasant choice
+dilute			to diminish the strength, flavor, or brilliance of by admixture
+dim			a emitting or having a limited or insufficient at amount of light
+oxide			a binary compound of oxygen with a more electropositive element or group
+diplomat		one employed or skilled in diplomacy
+handicap		a disadvantage that makes achievement unusually difficult
+discern			to detect with the eyes
+discriminate		making a distinction
+disgust			to cause to lose an interest or intention
+loathe			to dislike greatly and often with digust or intolerance
+smash			utter collapse, ruin
+disinterested		not having the mind or feelings engaged
+gloomy			partially or totally dark; dismally and depressingly dark
+dismal			showing or causing gloom or depression
+dismay			to cause to lose courage or resolution as because of alarm or fear
+dispose			to put in place
 incursion
 sedentary
 disseminate
-eliminate
-molt
+eliminate		to put and end to or get rid of: remove
+molt			to shed hair, feathers, shell, horns, or an outer layer periodically
 misrepresent
 distract
 grief
@@ -911,22 +912,25 @@ submerge
 diverse
 meteorite
 doctrine
-dogma
-territory
-domestic
-prevail
-dormant
+dogma			a definite authoritative tenet
+tenet			a principle, belief, or doctrine generally held to be true
+territory		a geographic area belonging to or under the jurisdiction of a governmental authority
+domestic		living near or about human habitations
+prevail			to be or continue in use or fashion
+dormant			
 scarce
-hostel
+hostel			a supervised lodging for usually young travelers
 preliminary
-updraft
-vivid
-drift
-dubious
-ductile
-overdue
-dull
-sneaker
+updraft			an upward movement of gas
+vivid			of a color: very strong : very high in chroma
+drift			the flow or the velocity of the current of a river or ocean stream
+dubious			giving rise to uncertainty
+ductile			capable of being fashioned into a new form
+overdue			delayed beyond an appointed time
+dull			mentally slow: stupid
+sneaker			a sports shoe with a pliable rubber sole
+pliable			supple enough to bend freely or repeatedly without breaking
+supper			readily adaptable or responsive to new situations
 freighter
 ornament
 dwarf
@@ -939,40 +943,45 @@ edifice
 editorial
 expel
 tunnel
-elegant
-elementary
-elevator
-elicit
-eligible
-eradicate
+elegant			of a high grade or quality
+elementary		of, relating to, or dealing with the simplest elements or principles of something
+elevator		one that raises or lifts something up
+elicit			to call forth or draw out
+eligible		qualified to participate or be chosen
+eradicate		pull up by the roots
 elliptical
-elm
-eloquent
-cave
-grotto
-beast
-solemn
-parade
-reindeer
-mammoth
-charcoal
-ocher
-smear
-pigment
-recess
-cavern
-migration
-herd
-obliterate
-realm
-tribal
-clan
-advocate
-trance
-shaman
-camouflage
-healer
-diviner
+elm			any of a genus of usually large deciduous trees
+eloquent		makred by forceful and fluent expression
+cave			a natural chamber or series of chambers in the earth or in the side of a hill or cliff
+grotto			cave
+beast			a four-footed mamal as distinguished from a human being
+solemn			
+parade			the ceremonial formation of a body of troops before a superior officer
+reindeer		
+mammoth			any of a genus of extinct elephant
+charcoal		a dark or black carbon
+ocher			material with a yellow color, used as a pigment
+smear			a spot made by or as if by an unctuous or adhesive substance
+unctuous		oily
+pigment			a substance that imparts black or white or a color to other materials
+recess			a hidden, secret, or secluded place or part
+secluded		screened or hidden from view
+cavern			
+migration		to move from one country, place, or locality to another
+locality		a particular place, situation, or location
+herd			a number of animals of one kind kept together under human control
+obliterate		to remove utterly from recognition or memory
+realm			sphere, domain
+tribal			of, relating to, or characteristic of a tribe
+tribe			a social group comprising numerous families, clans, or generations
+clan			a group of people tracing descent from a common ancestor
+advocate		one that pleads the cause of another
+trance			a sleeplike state
+shaman			a priest or priestess who uses magic for the purpose of curing the sick, divining the hidden, and controlling events
+cure			recovery or relief from a disease
+camouflage		the disgusing especially of military equipment or installations with paint, nets, or foliage
+healer			one that heals
+diviner			a person who practices divination
 
 
 
