@@ -898,29 +898,29 @@ gloomy			partially or totally dark; dismally and depressingly dark
 dismal			showing or causing gloom or depression
 dismay			to cause to lose courage or resolution as because of alarm or fear
 dispose			to put in place
-incursion
-sedentary
-disseminate
+incursion		a hostile entrance into a territory
+sedentary		doing or requiring much sitting
+disseminate		to spread abroad as though sowing seed
 eliminate		to put and end to or get rid of: remove
 molt			to shed hair, feathers, shell, horns, or an outer layer periodically
-misrepresent
-distract
-grief
-parcel
-scatter
-submerge
-diverse
-meteorite
-doctrine
+misrepresent		to give a false or misleading representation of usually with an intent to deceive or be unfair
+distract		to turn aside
+grief			to cause of such suffering
+parcel			a wrapped bundle
+scatter			to cause to separate widely
+submerge		to put under water
+diverse			differing from one another
+meteorite		a meteor that reaches the surface of the earth without being completely vaporized
+doctrine		something that is taught
 dogma			a definite authoritative tenet
 tenet			a principle, belief, or doctrine generally held to be true
 territory		a geographic area belonging to or under the jurisdiction of a governmental authority
 domestic		living near or about human habitations
 prevail			to be or continue in use or fashion
-dormant			
-scarce
+dormant			marked by a suspension of activity
+scarce			deficient in quantity or number compared with the demand
 hostel			a supervised lodging for usually young travelers
-preliminary
+preliminary		something that precedes or is introductory or preparatory
 updraft			an upward movement of gas
 vivid			of a color: very strong : very high in chroma
 drift			the flow or the velocity of the current of a river or ocean stream
@@ -931,18 +931,18 @@ dull			mentally slow: stupid
 sneaker			a sports shoe with a pliable rubber sole
 pliable			supple enough to bend freely or repeatedly without breaking
 supper			readily adaptable or responsive to new situations
-freighter
-ornament
-dwarf
-eccentric
-eclipse
-ecology
-thrift
-edible
-edifice
-editorial
-expel
-tunnel
+freighter		a ship or airplane used chiefly to carry freight
+ornament		something that lends grace or beauty
+dwarf			an animal or plant much below normal size
+eccentric		deviating from an established or usual pattern or style
+eclipse			the passing into the shadow of a celestial body
+ecology			a branch of science concerned with the interrelationship of organisms and their environments
+thrift			careful management especially of money
+edible			fit to be eaten
+edifice			building, especially a large or massive structure
+editorial		of or relating to an editor or editing
+expel			to force out
+tunnel			a hollow conduit or recess
 elegant			of a high grade or quality
 elementary		of, relating to, or dealing with the simplest elements or principles of something
 elevator		one that raises or lifts something up
@@ -982,9 +982,177 @@ cure			recovery or relief from a disease
 camouflage		the disgusing especially of military equipment or installations with paint, nets, or foliage
 healer			one that heals
 diviner			a person who practices divination
-
-
-
+elusive			hard to comprehend or define
+embellish		to make beautiful with ornamentation
+emblem			an object or the figure of an object symbolizing and suggesting another object or an idea
+embody			to give a body to
+embrace			to clasp in the arms
+embryo			the animal in the early stages of growth
+emerald			any of various green gemstones
+eminent			standing out so as to be readily perceived or noted
+emission		an act or instance of emitting
+sentiment		an attitude, thought, or judgment prompted by feeling
+enactment		the act of enacting
+enact			to establish by legal and authoritative act, specifically, to make a bill into law
+encase			to enclose in or as if in a case
+encompass
+encounter
+encroach
+endeavor		to strive to achieve or reach
+endow			to provide with something freely or naturally
+rabies
+endure			to undergo especially without giving in
+engraving		to impress deeply as if with a graver
+engulf			to take in food by or as if by flowing over and enclosing
+enlighten		illuminate
+illuminate		brightened with light
+fertilize		to make fertili
+entail			to restrict property by limiting the inheritance to the owner's lineal descendants or to a particular class thereof
+enthusiasm		strong excitement of feeling
+entitle			to give a title to
+envelop			to enclose or enfold completely with or as if with a covering
+enzyme			any of numberous complex proteins that are produced by living cells and catalyze specific biochemical reactions
+ephemeral		lasting one day only
+epic			extending beyond the usual or ordinary especially in size or scope
+epidemic		affecting or tending to affect a disproportionately large number of individuals within a population, community, or region
+epitomize		to make or give an epitome of
+epoch			an event or a time marked by an event that begins a new period or development
+era			a fixed point in time from which a series of years is reckoned
+erode			to diminish or destroy by degrees
+erupt			to force out or release suddenly and often violently something that is pent up
+essence			the individual, real, or ultimate nature of a thing especially as opposed to its existence
+estate			possessions, property, especially a person's property in land and tenements
+swarm			a great number of honeybees emigrating together from a hive in company with a queen to start a new colony elsewhere
+reckon			estimate, compute
+eternal			having infinite duration
+ethics			a discipline dealing with what is good and bad and with moral duty and obligation
+evacuation		the act or process of evacuating
+vanish			to pass quickly from sight
+evident			clear to the vision or understanding
+evoke			to bring to mind or recollection
+exaggerate		to enlarge beyong bounds or the truth
+exalt			to raise in rank, power, or character
+exceed			be extend outside of
+excursion		a going out
+execmplary		
+exempt			free or released from some liability or requirement to which others are subject
+exert			to put oneself into action or to tiring effort
+exhale			to emit breath or vapor
+exhilarating		to make cheerful and excited
+exotic			introduce from another country, not native to the place where found
+swell			to expand(as in size, volume, or numbers)gradually beyond a normal or original limit
+sneeze			to make a sudden violent spasmodic audible expiration of breath through the nose and mouth especially as a reflex act
+dispel
+expire
+explode
+exploit
+exponent
+exposition
+extol
+distill
+extravagant
+exuberant
+facade
+ingredient
+Fahrenheit
+faint
+dizzy
+infancy
+fare
+fatigue
+faucet
+fauna
+endotherm		a warm-blooded animal
+feeble
+frail
+feminist
+keen
+ferment
+feudal
+fidelity
+allegiance
+strainer
+precolate
+dorsal
+subsidize
+troupe
+finch
+flagella
+flake
+blaze	
+sway			fluctuating
+lap			
+flap
+flask
+elastic
+fling
+flint
+flock
+flora
+thrive
+fluctuate
+flux
+influx
+pleat
+bend			to constrain or strain to tension by curving
+folklore
+foment
+forage
+forefront
+foreshorten
+ectotherm		a cold-blooded animal
+formidable
+formic
+formulate
+fort			
+fortuitous
+fortune			a hypothetical force or personified power that unpredictably determines events and issues favorably or unfavorably
+sustain			to give support or relief to
+fountain		a spring of water issuing from the earth
+fragrant		having a sweet or pleasant smell
+aromatic		fragrant
+spicy			having the quality, flavor, or fragrance of spice
+odor			a quality of something that stimulates the olfactory organ
+fray			a usually disorderly or prtract fight, struggle, or dispute
+fret			to cause to suffer emotional strain
+pant			an outer garment covering each leg separately and usually extending from the waist to the ankle
+fury			intense, disordered, and often destructive rage
+frenzy			a temporary madness
+lamented		mourned for
+mourn			to feel or express grief or sorrow
+clash			to come into conflict
+frigid			intensely cold
+frugal			characterized by or reflecting economy in the use of resources
+fungus			
+oven			a chamber used for baking, heating, or drying
+kiln			an oven, furnace, or heated enclosure used for processing a substance by burning, firing, or drying
+furnace			an enclosed structure in which heat is produced
+galaxy			any of the very large groups of stars and associated matter that are found throughout the universe
+gallop			to run fast
+spur			to incite to action or accelerated growth or development
+gaseous			having the form of or being gas
+gasoline		a volatile flammable liquid hydrocarbon mixture used as a fuel
+petrol
+gem			a precious or sometimes semiprecious stone cut and polished for ornament
+petroleum		an oily flammable liquid
+microscopic		invisible or indistinguishable without the use of a microscope
+dissolve		to cause to disperse or disapper
+droplet			a tiny drop as of a liquid
+squeeze			to exert pressure especially on opposite sides of
+pool			a small and rather deep body of usually fresh water
+derrick			a framework or tower over a deep drill hole
+dismantle		to destroy the integrity or functioning of
+trap			something by which one is caught or stopped unaware
+spout			to eject as liquid in a stream
+gusher			an oil well with a copious natural flow
+copious			yielding something abundantly
+kerosene		a flammable hydrocarbon oil usually obtained by distillation of petroleum and used as a fuel, solvent, and thinnner
+dye			a soluble or insoluble coloring matter
+hostile			of or relating to an enemy
+spill			to let out
+tanker			a cargo ship fitted with tanks for carrying liquid in bulk
+faul			
+subside			to sink or fall to the bottom
 
 
 
