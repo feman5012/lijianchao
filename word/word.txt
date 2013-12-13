@@ -1153,6 +1153,45 @@ spill			to let out
 tanker			a cargo ship fitted with tanks for carrying liquid in bulk
 faul			
 subside			to sink or fall to the bottom
+chimney
+weave
+spontaneous
+genesis
+amber
+genial
+genital
+genius
+genre
+genuinely
+mild
+germ
+immense
+gigantic
+gin
+giraffe
+girder
+glacial
+glamor
+gland
+glare
+glaze
+glossy
+glow
+gumwater
+nibble
+bite
+gnaw
+gorgeous
+gorilla
+gospel
+Gothic
+gourd
+gradient
+
+
+
+
+
 
 
 
