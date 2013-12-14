@@ -1043,25 +1043,26 @@ exotic			introduce from another country, not native to the place where found
 swell			to expand(as in size, volume, or numbers)gradually beyond a normal or original limit
 sneeze			to make a sudden violent spasmodic audible expiration of breath through the nose and mouth especially as a reflex act
 dispel
-expire
-explode
-exploit
-exponent
-exposition
-extol
-distill
-extravagant
-exuberant
-facade
-ingredient
+expire			to come to an end
+explode			to cause to explode or burst noisily
+exploit			to make productive use of
+exponent		a symbol written above and to the right of a mathematical expression to indicate the operation of raising to a power
+exposition		a public exhibition or show
+extol			to praise highly, glorify
+distill			to let fall, exude, or precipitate in drops or in a wet mist
+extravagant		exceeding the limits of reason or necessity
+exuberant		extreme or excessive in degree, size, or extent
+facade			the front of a building
+ingredient		something that enters into a compound or is a component part of any combination or mixture
 Fahrenheit
-faint
-dizzy
-infancy
-fare
-fatigue
-faucet
-fauna
+faint			weak, dizzy	
+dizzy			having a whirling sensation in the head with a tendency to fall
+infancy			early childhood
+fare			get along
+fatigue			weariness or exhaustion from labor, exertion, or stress
+faucet			a fixture for drawing or regulating the flow of liquid especially from a pipe
+fauna			animal life, especially the animals characteristic of a region, period, or special environment
+flora			plant or bacterial life, especially, such life characteristic of a region, period, or special environment
 endotherm		a warm-blooded animal
 feeble
 frail
@@ -1083,29 +1084,28 @@ blaze
 sway			fluctuating
 lap			
 flap
-flask
+flask			a broad flattened necked vessel used especially to carry alcoholic beverage on the person
 elastic
 fling
 flint
 flock
-flora
-thrive
-fluctuate
-flux
-influx
-pleat
+thrive			to grow vigorously, flourish
+fluctuate		to shift back and forth uncertainly
+flux			a continuous moving on or passing by as of a stream
+influx			a coming in
+pleat			fold
 bend			to constrain or strain to tension by curving
 folklore
-foment
-forage
-forefront
-foreshorten
+foment			to promote the growth or development of
+forage			food for animals especially when taken by browing or grazing
+forefront		the foremost part or place
+foreshorten		to shorten
 ectotherm		a cold-blooded animal
-formidable
-formic
-formulate
-fort			
-fortuitous
+formidable		causing fear, dread, or apprehension
+formic			a colorless pungent fuming vesicant liquid acid CH2O2 found especially in ants and in many plants
+formulate		to put into a systematized statement or expression
+fort			a strong or fortified place
+fortuitous		occuring by chance
 fortune			a hypothetical force or personified power that unpredictably determines events and issues favorably or unfavorably
 sustain			to give support or relief to
 fountain		a spring of water issuing from the earth
@@ -1153,20 +1153,20 @@ spill			to let out
 tanker			a cargo ship fitted with tanks for carrying liquid in bulk
 faul			
 subside			to sink or fall to the bottom
-chimney
-weave
-spontaneous
-genesis
-amber
-genial
-genital
-genius
-genre			
-genuinely
+chimney			a vertical structure incorporated into a building and enclosing a flue or flues that carry off smoke
+weave			to form by interlacing strands
+spontaneous		proceeding from natural feeling or native tendency without external constraint
+genesis			the origin or coming into being of something
+amber			a hard yellowish to brownish translucent fossil resin that takes a fine polish and is used chiefly in making ornamental
+genial			makred by or diffusing sympathy or friendliness
+genital			of, relating to, or being a sexual organ
+genius			a person endowed with transcendent mental superiority, especially a person with a very high IQ
+genre			a category of artistic, musical, or literary composition characterized by a particular style, form, or content
+genuinely		actually having the reputed or apparent qualities or character
 mild			living in a state of nature and not ordinarily or domesticated
-germ
-immense
-gigantic
+germ			a small mass of living substance capable of developing into an organism or one of its parts
+immense			marked by greatness especially in size or degree
+gigantic		exceeding the usual or exprected(as in size, force, or prominence)
 gin			a colorless alcoholic beverage made from distilled or redistilled neutral grain spirits flavored with juniper berries
 giraffe			a large fleet mammal that is the tallest of living quadrupeds and has a very long neck
 girder			a horizontal main structural member that supports vertical loads and that consists of a single piece bound together
