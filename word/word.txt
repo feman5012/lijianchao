@@ -1161,32 +1161,32 @@ amber
 genial
 genital
 genius
-genre
+genre			
 genuinely
-mild
+mild			living in a state of nature and not ordinarily or domesticated
 germ
 immense
 gigantic
-gin
-giraffe
-girder
-glacial
-glamor
-gland
-glare
-glaze
-glossy
-glow
-gumwater
-nibble
-bite
-gnaw
-gorgeous
-gorilla
-gospel
-Gothic
-gourd
-gradient
+gin			a colorless alcoholic beverage made from distilled or redistilled neutral grain spirits flavored with juniper berries
+giraffe			a large fleet mammal that is the tallest of living quadrupeds and has a very long neck
+girder			a horizontal main structural member that supports vertical loads and that consists of a single piece bound together
+glacial			extremely cold, frigid
+glamor			an exciting and often illusory and romantic attractiveness
+gland			specialized cell, group of cells, or organ of endothelial origin that selectively removes material from the blood
+glare			to shine with a harsh uncomfortably brilliant light
+glaze			to give a smooth glossy surface to
+glossy			having a surface luster or brightness
+glow			to have a rich warm typically ruddy color
+gumwater		
+nibble			to bite gently
+bite			to seize especially with teeth or jaws so as to enter, grip, or wound
+gnaw			to bite or chew on with the teeth, to wear away by persistent biting or nibbling
+gorgeous		splendidly or showily brilliant or magnificent
+gorilla			a very large typically black-colored anthropoid ape of equatorial Africa that has a stocky body with broad shoulders
+gospel			the message concerning Christ, the kindom of God, and salvation
+Gothic			of, relating to, or resembling the Goths, their civilization, or their language
+gourd			any of a family of chiefly herbaceous tendrili-bearing vines including the cucumber, melon, squash, and pumpkin
+gradient		the rate of regular or graded ascent or descent
 
 
 
