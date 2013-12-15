@@ -1064,31 +1064,31 @@ faucet			a fixture for drawing or regulating the flow of liquid especially from 
 fauna			animal life, especially the animals characteristic of a region, period, or special environment
 flora			plant or bacterial life, especially, such life characteristic of a region, period, or special environment
 endotherm		a warm-blooded animal
-feeble
-frail
-feminist
-keen
-ferment
-feudal
-fidelity
-allegiance
-strainer
-precolate
-dorsal
-subsidize
-troupe
-finch
-flagella
-flake
-blaze	
+feeble			markedly lacking in strength
+frail			easily led into evil
+feminist		organized activity on behalf of women's rights and interests
+keen			having a fine edge or point
+ferment			to be in a state of agitation or intense activity
+feudal			of, relating to, or suggestive of feudalism
+fidelity		the quality or state of being faithful
+allegiance		
+strainer		a device as a sieve to retain solid peices while a liquid passes through
+precolate		
+dorsal			relating to or situated near or on the back especially of an animal or of one of its parts
+subsidize		to aid or promote with public money
+troupe			a group of theatrical performers
+finch			any of numerous passerine songbirds having a short stout usually conical bill adapted for crushing seeds
+flagella		
+flake			a small loose mass or bit
+blaze			an intensely burning fire
 sway			fluctuating
-lap			
-flap
+lap			the front part of the lower trunk and thighs of a seated person
+flap			a stroke with something broad
 flask			a broad flattened necked vessel used especially to carry alcoholic beverage on the person
-elastic
-fling
-flint
-flock
+elastic			capable of recovering size and shape after deformation
+fling			to move in a brusque or headlong manner
+flint			a massive hard dark quartz that produces a spark when struck by steel
+flock			a large number
 thrive			to grow vigorously, flourish
 fluctuate		to shift back and forth uncertainly
 flux			a continuous moving on or passing by as of a stream
@@ -1187,7 +1187,54 @@ gospel			the message concerning Christ, the kindom of God, and salvation
 Gothic			of, relating to, or resembling the Goths, their civilization, or their language
 gourd			any of a family of chiefly herbaceous tendrili-bearing vines including the cucumber, melon, squash, and pumpkin
 gradient		the rate of regular or graded ascent or descent
-
+granite
+marble
+granular
+grasshopper
+gregarious
+grimly
+toss
+windmill
+grind
+grip
+groan
+grocery
+groom
+gross
+grudge
+malice
+drudge
+pledge
+guilty
+gulf
+gull
+habitat
+amphibian
+pestle
+pound
+mallet
+hamper
+hinder
+harbor
+hardy
+harness
+harsh
+raspy
+haste
+hatch
+haul
+haunt
+haven
+dove
+hawk
+hay
+stover
+hazard
+heed
+hemisphere
+henceforth
+herald
+herbicide
 
 
 
