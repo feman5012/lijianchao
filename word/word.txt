@@ -1193,20 +1193,21 @@ granular
 grasshopper
 gregarious
 grimly
-toss
+toss			to fling or heave continuously about, to and fro, or up and down
+fro			back, away
 windmill
 grind
 grip
 groan
 grocery
 groom
-gross
+gross			visible without the aid of a microscope
 grudge
 malice
 drudge
 pledge
 guilty
-gulf
+gulf			a part of an ocean or sea extending into the land
 gull
 habitat
 amphibian
@@ -1214,14 +1215,14 @@ pestle
 pound
 mallet
 hamper
-hinder
+hinder			to make slow or difficult the progress of
 harbor
 hardy
 harness
 harsh
 raspy
 haste
-hatch
+hatch			to produce young by incubation
 haul
 haunt
 haven
@@ -1240,7 +1241,7 @@ listless
 lipid
 linger
 linen
-lace
+lace			a cord or string used for drawing together two edges
 linear
 lime
 lettuce
@@ -1254,7 +1255,7 @@ leftover
 ledge
 leather
 lease
-leap
+leap			to pass abruptly from one state or topic to another
 league
 wool
 turtle
@@ -1266,7 +1267,7 @@ lash
 larva
 landscape
 landmass
-lament
+lament			to express sorrow, mourning, or regret for often demonstratively
 laboratory
 kinetic
 squirrel
@@ -1277,27 +1278,31 @@ justice
 junction
 intersection
 jumble
-swift
+swift			moving or capable of moving with great speed
 astound
-jolt
-bolt
-joint
-jog
-jewelry
-jeopardize
-jelly
-jar
-ivory
-irritate
-bronchial
-irrigate
-irony
-ironically
-involve
+jolt			to cause to move with a sudden jerky motion
+jerky			characterized by abrupt transitions
+bolt			a wood or metal bar or rod used to fasten a door
+joint			the point of contact between elements of an animal skeleton with the parts that surround and support it
+jog			to give a slight shake or push to
+jewelry			jewels, especially objects of precious metal often set with gems and worn for personal adornment
+jeopardize		to expose to danger or risk
+jelly			a soft somewhat elastic food product made usually with gelatin or pectin
+jar			a widemouthed container made typically of earthenware or glass
+ivory			the hard creamy-white modified dentine that composes the tusks of a tusked mammal
+irritate		to provoke impatience, anger, or displeasure in
+bronchial		of or relating to the bronchi or their ramifications in the lungs
+ramification		branch, offshoot
+irrigate		to supply with water by artificial means
+irony			the use of words to express something other than and especially the opposite of the literal meaning
+ironically		in an ironic manner
+involve			to engage as a participant
 investigate
-vertebrate
-inventory
-plow
+vertebrate		having a spinal column
+spinal			of, relating to, or resembling a spine
+spine			
+inventory		an itemized list of current assets
+plow			an implement used to cut, lift, and turn over soil especially in preparing a seedbed
 intriguing
 intricate
 intrepid
@@ -1309,21 +1314,24 @@ internship
 interfere
 intelligent
 intellect
-insullin
-insulate
-percussion
-alarmist
-institute
-perception
-insect
-inscribe
-insanity
-innovative
-naive
-innate
-inn
-prey
-subdue
+insulin			a protein pancreatic hormone secreted by the beta cels of the islets of Langerhans
+glucose			the sweet colorless soluble dextrorotatory form that occurs widely in nature
+diabetes		any of various abnormal conditions characterized by the secretion and excretion of excessive amounts of urine
+urine			waste material that is secreted by the kidney in vertebrates		
+insulate		to place in a detached situation
+percussion		the beating or striking of a musical instrument
+alarmist		people who are often unwarranted exciting of fears or warning of danger
+institute		an educational institution and especially one devoted to technical fields
+perception		a result of perceiving, observation
+insect			any of numberous small invertebrate animals that are more or less obviously segmented
+inscribe		to write, engrave, or print as a lasting record
+insanity		a deranged state of the mind usually occurring as a specific disorder
+innovative		characterized by, tending to, or introducing innovations
+naive			marked by unaffected simplicity
+innate			existing in, belonging to, or determined by factors present in an individual from birth
+inn			an establishment for the lodging and entertaining of travelers
+prey			an animal taken by a predator as food
+subdue			to conquer and bring into subjection
 
 
 
