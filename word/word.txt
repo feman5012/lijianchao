@@ -1336,7 +1336,11 @@ inherit
 inherent
 ingenious
 pollinator
-orchid
+orchid			
+perennial		present at all seasons of the year
+epiphytic		living on the surface of plants
+petal			one of the modified often brightly colored leaves of the corolla of a flower
+corolla			the part of a flower that consists of the separate or fused petals and constitutes the inner whorl of the perianth
 rampant
 crossbreeding
 infrastructure
@@ -1345,7 +1349,7 @@ influenza
 inflation
 inflammation
 inferior
-infant
+infant			a child in the first period of life
 inert
 induce
 oyster
@@ -1358,7 +1362,7 @@ incinerate
 incessant
 inception
 incense
-heal
+heal			to restore to health
 hibernation
 dormancy
 conceal
@@ -1366,13 +1370,13 @@ tan
 hieratic
 hieroglyph
 gerbil
-hint
+hint			a statement conveying by implication what it is preferred not to say explicitly
 hinterland
 hitherto
 hive
 hockey
 homestead
-pigeon
+pigeon			any of a widely distributed family of birds with a stout body, rather short legs, and smooth and compact plumage
 hominid
 homogeneous
 hook
@@ -1382,13 +1386,15 @@ trumpet
 hospitable
 parasite
 household
-hover
+hover			to hang fluttering in the air or on the wing
+flutter			to flap the wings rapidly
 huddle
 hue
 hum
 humid
 hummingbird
-hurl
+hurl			to send or thrust with great vigor
+vigor			active bodily or mental strength or force
 hurricane
 cyclone
 husk
@@ -1398,10 +1404,10 @@ hygiene
 transfigure
 ideology
 idiom
-vacant
+vacant			not occupied by an incumbent, possessor, or officer
 ignition
 ignorant
-neglect
+neglect			to give little attention or respect to
 illusion
 delusion
 seduce
@@ -1410,7 +1416,7 @@ elusion
 imagist
 imbibe
 camel
-ripe
+ripe			fully grown and developed
 proximal
 immune
 exemption
@@ -1421,7 +1427,7 @@ imperative
 impermeable
 impetus
 implicit
-imply
+imply			to express indirectly
 impose
 levy
 stunning
@@ -1429,7 +1435,7 @@ imprint
 improvise
 gosling
 inanimate
-inanity
+inanity			the quality or state of being inane
 inaugurate
 plunge
 plump
@@ -1441,14 +1447,14 @@ plausible
 platitude
 tableland
 plaster
-plasma
+plasma			a green faintly translucent quartz
 ionize
 plankton
 plank
 walnut
 pivotal
 pitcher
-pit
+pit			a hole, shaft, or cavity in the ground
 piracy
 hose
 pinpoint
@@ -1461,7 +1467,7 @@ physiology
 physician
 photosynthesis
 photodissociation
-philosophy
+philosophy		
 pheromone
 recurring
 pharmacy
