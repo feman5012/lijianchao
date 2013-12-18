@@ -632,7 +632,6 @@ foul			offensive to the senses
 tannin			
 indigestible		not easily digested
 longevity		a long duration of individual life
-acron			the nut of the oak
 predation		the act of preying or plundering
 appetite		any of the instinctive desires necessary to keep up organic life
 aquarium		
@@ -1331,24 +1330,24 @@ innate			existing in, belonging to, or determined by factors present in an indiv
 inn			an establishment for the lodging and entertaining of travelers
 prey			an animal taken by a predator as food
 subdue			to conquer and bring into subjection
-inhibit
-inherit
-inherent
-ingenious
-pollinator
+inhibit			to prohibit from doing something
+inherit			to come into possession of or receive especially as a right or divine portion
+inherent		invovled in the constitution or essential character of something, belonging by nature or habit
+ingenious		showing or calling for intelligence
+pollinator		an agent (as an insect) that pollinates flowers
 orchid			
 perennial		present at all seasons of the year
 epiphytic		living on the surface of plants
 petal			one of the modified often brightly colored leaves of the corolla of a flower
 corolla			the part of a flower that consists of the separate or fused petals and constitutes the inner whorl of the perianth
-rampant
-crossbreeding
-infrastructure
-infrared
-influenza
-inflation
-inflammation
-inferior
+rampant			marked by a menacing wildness, extravagance, or absense of restraint
+crossbreed		hybridize, cross, especially, to cross (two varieties or breeds) within the same species
+infrastructure		the underlying foundation or basic framework
+infrared		situated outside the visible spectrum at its red end
+influenza		an acute typically severe respiratory disease
+inflation		a continuing rise in the general price level usually attributed to an increase in the volume of money
+inflammation		a local response to cellular injury that is makred by capillary dilatation, redness, heat, and pain
+inferior		of low or lower degree or rank
 infant			a child in the first period of life
 inert
 induce
@@ -1461,7 +1460,7 @@ pinpoint
 pine
 pineapple
 pilot
-vest
+vest			to place or give into the possession or discretion of some person or authority
 pictorial
 physiology
 physician
@@ -1474,14 +1473,14 @@ pharmacy
 pestcide
 pervasive
 pertinent
-almanacs
+almanac			a publication containing astronomical and meteorological data for a given year
 locale
 persuasive
 perpetuate
 permeate
 blotting
 perishable
-cherish
+cherish			to keep or cultivate with care and affection
 peripheral
 perfume
 flawless
@@ -1490,7 +1489,7 @@ pendant
 pedagogy
 peculiar
 summit
-pave
+pave			to lay or cover with material that forms a firm level surface for travel
 patronizing
 patronage
 patron
@@ -1498,7 +1497,7 @@ benefactor
 patrol
 patriot
 pathology
-patent
+patent			an official document conferring a right or priviledge
 stripe
 scrap
 meadow
@@ -1507,8 +1506,8 @@ assertive
 dime
 impartially
 parliament
-tachinid
-paramount
+tachinid		any of a family of bristly usually grayish or black dipteran flies whose parasitic larvae
+paramount	
 propellant
 paralyze
 pancreas
@@ -1518,7 +1517,7 @@ palatable
 diligent
 painstaking
 industrious
-paddle
+paddle			to move the hands or feet about in shallow water
 ozone
 bluish
 owl
@@ -1530,14 +1529,14 @@ aboriginal
 orientation
 ore
 roe
-orbit
+orbit			a path described by one body in its revolution about another
 optimistic
 optimal
 optical
 occasion
 opaque
 opal
-silt
+silt			loose sedimentary material with rock particles usually 1/20 millimeter or less in diameter
 ooze
 slaughter
 olfactory
@@ -1551,7 +1550,7 @@ skeeter
 mosquito
 moth
 motif
-motive
+motive			something (as a need or desire) that causes a person to act
 mottled
 rugged
 manifold
@@ -1563,7 +1562,7 @@ mushroom
 mutual
 myriad
 artless
-nake
+nake			not covered by clothing
 doze
 nap
 naval
@@ -1574,7 +1573,7 @@ negotiation
 neoclassical
 neolithic
 neon
-neutral
+neutral			not engaged on either side, not aligned with a political or ideological grouping
 neutron
 nickel
 nitrogen
@@ -1583,21 +1582,21 @@ nomadic
 nominate
 nominee
 notate
-notion
+notion			an individual's conception or impression of something known, experienced, or imagined
 notwithstanding
 nourish
 noxious
 nurture
 oasis
 oblivious
-obsess
+obsess			to haunt or excessively preoccupy the mind of
 obsolete
 tough
 rodeo
 rodent
 edentate
 rod
-pivot
+pivot			a shaft or pin on which someting turns
 foam
 roam
 rival
@@ -1605,28 +1604,29 @@ eloquence
 ribbon
 rhinoceros
 award
-rebel
+rebel			opposing or taking arms against a government or ruler
 uprise
 revolt
 revival
 revitalize
 revert
 revere
-acorn
+acorn			the nut of the oak	
 retrieve
 retreat
 retail
 respective
 locust
 migratory
-sauce
+sauce			a condiment or relish for food, especially, a fluid dressing or topping
 saucer
 recourse
 resort
 resonance
 withstand
 residue
-reside
+reside			to dwell permanently or continuously, occupy a place as one's legal domicile
+domicile		a dwelling place, place of residence, home
 reservoir
 rescue
 mechanize
@@ -1634,13 +1634,13 @@ reptile
 replicate
 repertory
 repertoire
-repel
+repel			to fight against
 renovate
-cretaceous
-paleontologist
-irridium
-lunar
-presumably
-tentatively
-criterion
+cretaceous		of, relating to, or being the last period of the Mesozoic era
+paleontologist		a science dealing with the life of past geological periods as known from fossil remains
+irridium		
+lunar			of, relating to, or resembling the moon
+presumably		by reasonable assumption
+tentatively		hesitant, uncertain
+criterion		a standard on which a judgement or decision may be based
 
