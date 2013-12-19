@@ -1646,13 +1646,13 @@ criterion		a standard on which a judgement or decision may be based
 pole
 pollen
 pollinate
-polygon
+polygon			a closed plane figure bounded by straight lines
 ponderous
 reap
 populate
 portrait
 posit
-choppy
+choppy			interrupted by ups and downs
 tilt
 postpone
 postulate
@@ -1662,27 +1662,27 @@ prairie
 precede
 precipitate
 precursor
-predator
-predecessor
-gourmet
-indict
-tenement
-preponderance
-prescrible
-pharmacist
-oppress
-prestige
-pretension
-pretentious
-primate
-bipedal
-premium
-sanitary
-remnant
-tulip
-remains
-reluctant
-
+predator		an animal that lives by predation
+predecessor		a person who has previously occupied a position or office to which another has succeeded
+gourmet			a connoisseur of food and drink
+indict			to charge with a fault or offense
+tenement		any of various forms of corporeal property(as land) or incorporeal property that is held by one person from another
+preponderance		a superiority in weight, power, importance, or strength
+prescrible		to write or give medical prescriptions
+pharmacist		a person licensed to engaged in pharmacy
+oppress			to crush or burden by abuse of power or authority
+prestige		commanding position in people's minds
+pretension		an aspiration or intention that may or may not reach fulfillment
+pretentious		characterized by pretension
+primate			any of an order of mammals that include humans, apes, monkeys, and related forms
+bipedal			a two-footed animal
+premium			a sum over and above a regular price paid chiefly as an inducement or incentive
+sanitary		of or relating to health
+remnant			a usually small part, member, or trace remaining
+tulip			any of a genus of Eurasian bulbous herbs of the lily family that have liner or broadly lanceolate leaves
+remain			to be a part not destroyed, taken, or used up
+reluctant		feeling or showing aversion, hesitation, or unwillingness
+aversion		a feeling of repugnance toward something with a desire to avoid or turn from it
 
 
 
