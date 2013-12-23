@@ -1690,8 +1690,8 @@ rejuvenate
 poet
 rehearse
 rehabilitate
-district
-cucumber
+district		the territorial division (as for administrative or electoral purposes)
+cucumber		the fruit of a vine of the gourd family cultivated as a garden vegetable
 refurbish
 refund
 fund
@@ -1702,10 +1702,10 @@ reef
 reddish
 garage
 recruit
-enlist
+enlist			to secure the support and aid of
 reckless
 recipe
-stew
+stew			to boil slowly or with simmering heat
 recession
 ting
 receptor
@@ -1714,11 +1714,11 @@ rayon
 rattle
 demagogue
 ratify
-rash
+rash			marked by or proceeding from undue haste or lack of deliberation or caution
 rare
 ranch
 rally
-rainbow
+rainbow			an arc or circle that is formed opposite the sun by the refraction and reflection of the sun's rays in raindrops
 rage
 radius
 radiate
@@ -1728,18 +1728,18 @@ quota
 quiz
 abdicate
 bedcover
-quilt
+quilt			a bed coverlet of two layers of cloth filled with padding held in place by ties or stiched designs
 questionnaire
 quasar
-quartz
+quartz			a mineral consisting of silicon dioxide occuring in colorless and transparent
 quarry
 quantify
 satiric
 quaint
 pyramid
 pursuit
-purple
-doll
+purple			of the color purple
+doll			a small-scale figure of a human being used especially as child's plaything
 puppet
 pupil
 puncture
@@ -1753,7 +1753,7 @@ mentality
 prudent
 provision
 prototype
-protest
+protest			a solemn declaration of opinion and usually of dissent
 starch
 prosperous
 prose
@@ -1761,24 +1761,24 @@ proponent
 propel
 proofread
 soundproof
-fireproof
-waterproof
-rustproof
+fireproof		proof against or resistant to fire
+waterproof		impervious to water, especially, covered or treated with a material to prevent permeation by water
+rustproof		incapable of rusting
 incite
 prompt
 prominent
-prolong
+prolong			to lengthen in time
 prohibitively
 progressive
 profound
 proficient
 prodigious
 proclaim
-zinc
+zinc			a bluish-white metallic element
 zigzag
 zealous
 yogurt
-yield
+yield			to produce as revenue
 yeast
 yarn
 scandal
@@ -1799,36 +1799,37 @@ watercourse
 wasp
 wary
 warp
-warehouse
-ware
+warehouse		a structure or room for the storage of merchandise or commodities
+ware			manufactured articles, products of art or craft, or farm produce
 wane
 swan
 wagon
 stagecoach
 vulnerable
 amphibian
-voyage
-rupture
-volatile
-vocation
-vista
-merit
-vigorous
-vicinity
-quiver
-swing
-viable
-veto
-vein
-venture
-gamble
-artery
-vegetarian
-vault
-vascular
-varnish
-burnish
-kiosk
+voyage			an act or instance of travelling
+rupture			a breaking apart or the state of being broken apart
+volatile		readily vaporizable at a relatively low temperature
+vocation		a respite or a time of respite from something
+vista			a distant view through or along an avenue or opening
+merit			character or conduct deserving reward, honor, or estem
+vigorous		possessing vigor, full of physical or mental strength or active force
+vicinity		the quality or state of being near
+quiver			to shake or move with a slight trembling motion
+swing			to cause to move vigorously through a wide arc or circle	
+viable			capable of growing or developing
+veto			an authoritative prohibition
+vein			a narrow water channel in rock or earth or in ice
+venture			to expose to hazard, risk, gamble
+gamble			to play a game for money or property
+artery			any of the tubular branching muscular-and elastic-walled vessels that carry blood from the heart through the body
+vegetarian		one who believes in or practices vegetarianism
+vault			an arched structure of masonry usually forming a ceiling or roof
+vascular		of or relating to a channel for the conveyance of a body liquid
+ardor			an often restless or transitory warmth of feeling
+varnish			a liquid preparation that when applied to a surface dries to form a hard lustrous typically transparent coating
+burnish			to make shiny or lustrous especially by rubbing
+kiosk			an open summerhouse or pavilion
 
 
 
