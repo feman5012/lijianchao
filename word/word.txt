@@ -1780,33 +1780,35 @@ zealous
 yogurt
 yield			to produce as revenue
 yeast
-yarn
-scandal
-wreck
-shipwreck
-wrap
-wither
-recede
-wispy
-willow
-willful
-unruly
-wick
-wholesome
-welfare
-weird
-watercourse
-wasp
-wary
-warp
+yarn			a continuous often plied strand composed of either natural or man-made fibers or filaments
+scandal			loss of or damage to reputation caused by actual or apparent violation of morality or propriety
+wreck			a violent and destructive crash
+shipwreck		a wrecked ship or its parts
+wrap			to cover especially by winding or folding
+wither			to become dry and sapless, especially, to shrivel from or as if from loss of bodily moisture
+recede			to move back or awary
+wispy			a small handful (as of hay or straw)
+willow			any of a genus of trees and shrubs
+willful			done deliberately, intentional
+unruly			not readily ruled, disciplined, or managed
+wick			a bundle of fibers or a loosely twisted, braided, or woven cord, tape, or tube
+wholesome		promoting health or well-bing of mind or spirit
+welfare			the state of doing well especially in respect to good fortune, happiness, well-being, or prosperity
+weird			of strange or extraordinary character, odd, fantastic
+watercourse		a natural or artificial channel through which water flows
+wasp			any of numerous social or solitary winged hymenopterous insetcs
+wary			marked by keen caution, cunning, and watchfullness especially in detecting and escaping danger
+warp			a series of yarns extended lengthwise in a loom and crossed by the weft
+weft			a filling thread or yarn in weaving
 warehouse		a structure or room for the storage of merchandise or commodities
 ware			manufactured articles, products of art or craft, or farm produce
-wane
-swan
-wagon
-stagecoach
-vulnerable
-amphibian
+wane			to decrease in size, extent, or degree
+swan			any of various large heavy-bodied long-necked mostly pure white aquatic birds that have webbed feet
+wagon			a usually four-wheeled vehicle for transporting bulky commodities and drawn originally by animals
+stagecoach		a horse-drawn passenger and mail coach running on a regular schedule between established stops
+vulnerable		capable of being physically or emotionally wounded
+amphibian		an amphibious organism
+amphibious		combining two characteristics
 voyage			an act or instance of travelling
 rupture			a breaking apart or the state of being broken apart
 volatile		readily vaporizable at a relatively low temperature
