@@ -1715,29 +1715,29 @@ rattle
 demagogue
 ratify
 rash			marked by or proceeding from undue haste or lack of deliberation or caution
-rare
-ranch
-rally
+rare			seldom occurring or found
+ranch			a large farm for raising horses, beef cattle, or sheep
+rally			to muster for a common purpose
 rainbow			an arc or circle that is formed opposite the sun by the refraction and reflection of the sun's rays in raindrops
-rage
-radius
-radiate
-racket
-quote
-quota
-quiz
-abdicate
-bedcover
+rage			violent and uncontrolled anger
+radius			a line segment extending from the center of a circle or sphere to the circumference or bounding surface
+radiate			to proceed in a direct line from or toward a center
+racket			a lightweight implement that consists of a netting
+quote			to speak or write a passage from another usually with credit acknowledgment
+quota			a proportional part or share, especially, the share or proportion assigned to each in a division or to each member
+quiz			a short oral or written test
+abdicate		to cast off, discard
+bedcover		a usually ornamental cloth cover for a bed
 quilt			a bed coverlet of two layers of cloth filled with padding held in place by ties or stiched designs
-questionnaire
-quasar
+questionnaire		a set of questions for obtaining statistically useful or personal information
+quasar			any of a class of celestial objects that resemble stars
 quartz			a mineral consisting of silicon dioxide occuring in colorless and transparent
-quarry
-quantify
-satiric
-quaint
-pyramid
-pursuit
+quarry			one that is sought or pursued
+quantify		to make explicit the logical quantity of
+satiric			of, relating to, or constituting satire
+quaint			marked by skillful design, or beauty, or elegance
+pyramid			an ancient massive structure found especially in Egypt
+pursuit			the act of pursuing
 purple			of the color purple
 doll			a small-scale figure of a human being used especially as child's plaything
 puppet
@@ -1754,32 +1754,32 @@ prudent
 provision
 prototype
 protest			a solemn declaration of opinion and usually of dissent
-starch
-prosperous
-prose
-proponent
-propel
-proofread
-soundproof
+starch			to stiffen with or as if with starch
+prosperous		marked by success or economic well-being
+prose			a literary medium distinguished from poetry especially by its greater irregularity and variety of rhythm
+proponent		one who argues in favor of something
+propel			to drive forward or onward by or as if by means of a force that imparts motion
+proofread		to read and mark corrections in
+soundproof		impervious to sound
 fireproof		proof against or resistant to fire
 waterproof		impervious to water, especially, covered or treated with a material to prevent permeation by water
 rustproof		incapable of rusting
-incite
-prompt
-prominent
+incite			to move to action, stir up, spur on, urge on
+prompt			to move to action, incite
+prominent		widely and popularly known
 prolong			to lengthen in time
-prohibitively
-progressive
-profound
-proficient
-prodigious
-proclaim
+prohibitively		tending to prohibit or restrain
+progressive		of, relating to, or characterized by progress
+profound		having intellectual depth and insight
+proficient		well advanced in an art, occupation, or branch of knowledge
+prodigious		exciting amazement or wonder
+proclaim		to declare or declare to be solemnly, officially, or formally
 zinc			a bluish-white metallic element
-zigzag
-zealous
-yogurt
+zigzag			one of a series of short sharp turns, angles, or alternations in a course
+zealous			marked by fervent partisanship for a person, a cause, or an ideal, filled with or characterized by zeal
+yogurt			a fermented slightly acid often flavored semisolid food made of milk and milk solids
 yield			to produce as revenue
-yeast
+yeast			a yellowish surface froth or sediment that occurs especially in saccharine liquids
 yarn			a continuous often plied strand composed of either natural or man-made fibers or filaments
 scandal			loss of or damage to reputation caused by actual or apparent violation of morality or propriety
 wreck			a violent and destructive crash
