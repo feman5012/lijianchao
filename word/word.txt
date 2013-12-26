@@ -1483,12 +1483,12 @@ perishable
 cherish			to keep or cultivate with care and affection
 peripheral
 perfume
-flawless
-penicillin
-pendant
-pedagogy
-peculiar
-summit
+flaw			a defect in physical structure or form
+penicillin		
+pendant			an ornament(as on a necklace) allowed to hang free
+pedagogy		the art, science, or profession of teaching, especially education
+peculiar		different from the usual or normal
+summit			top, apex, especially, the highest point, peak
 pave			to lay or cover with material that forms a firm level surface for travel
 patronizing
 patronage
@@ -1683,37 +1683,40 @@ tulip			any of a genus of Eurasian bulbous herbs of the lily family that have li
 remain			to be a part not destroyed, taken, or used up
 reluctant		feeling or showing aversion, hesitation, or unwillingness
 aversion		a feeling of repugnance toward something with a desire to avoid or turn from it
-relevant		
-relay
-vessel
-rejuvenate
-poet
-rehearse
-rehabilitate
+relevant		having significant and demostrable bearing on the matter at hand
+demonstrable		capable of being demonstrated
+relay			a supply(as of horses) arranged beforehand for successive relief
+vessel			a container(as a cask, bottle, kettle, cup, or bowl) for holding something
+rejuvenate		to make young or youthful again, give new vigor to
+poet			one who writes poetry, a maker of verses
+rehearse		to say again, repeat
+rehabilitate		to restore to a former state
 district		the territorial division (as for administrative or electoral purposes)
 cucumber		the fruit of a vine of the gourd family cultivated as a garden vegetable
-refurbish
-refund
-fund
-refrigerate
-mirror
-exquisite
-reef
-reddish
-garage
-recruit
+refurbish		to brighten or freshen up
+refund			to give or put back
+fund			a sum of money or other resources whose principal or interest is set apart for a specific objective
+refrigerate		to make or keep cold or cool, to freeze or chill (as food) for preservation
+mirror			a polished or smooth surface(as of glass) that forms images by reflection
+exquisite		marked by flawless craftsmanship or by beautiful, ingenious, delicate, or elaborate execution
+reef			
+reddish			tinged with red
+garage			a shelter or repair shop for automotive vehicles
+recruit			to fill up the number of(as an army) with new members
 enlist			to secure the support and aid of
-reckless
-recipe
+reckless		marked by lack of proper caution, careless of consequences
+reck			worry, care
+recipe			a set of instructions for making something from various ingredients
 stew			to boil slowly or with simmering heat
-recession
-ting
-receptor
-receptacle
-rayon
-rattle
-demagogue
-ratify
+recession		a period of reduced economic activity
+ting			a high-pitched sound like that made by a light stroke on a crystal goblet
+goblet			a drinking vessel(as of glass) with a foot and stem
+receptor		a cell or group of cells that receives stimuli
+receptacle		
+rayon			any of a group of smooth textile fibers made from regenerated cellulose by extrusion through minute holes
+rattle			to chatter incessantly and aimlessly
+demagogue		a leader who makes use of popular prejudices and false claims and promises in order to gain power
+ratify			to approve and sanction formally, confirm
 rash			marked by or proceeding from undue haste or lack of deliberation or caution
 rare			seldom occurring or found
 ranch			a large farm for raising horses, beef cattle, or sheep
@@ -1740,19 +1743,19 @@ pyramid			an ancient massive structure found especially in Egypt
 pursuit			the act of pursuing
 purple			of the color purple
 doll			a small-scale figure of a human being used especially as child's plaything
-puppet
-pupil
-puncture
-punctual
-pump
+puppet			a small-scale figure usually with a cloth body and hollow head that fits over and is moved by the hand
+pupil			a child or young person in school or in the charge of a tutor or instructor
+puncture		to piere with or as if with a pointed instrument or object
+punctual		being on time
+pump			a device that raises, transfers, delivers, or compresses fluids or that attenuates gases especially by suction
 sequoia
-throb
-sump
-puddle
-mentality
-prudent
-provision
-prototype
+throb			to pulsate or pound with abnormal force or rapidity
+sump			a pit or reservoir serving as a drain or receptacle for liquids
+puddle			a very small pool of usually dirty or muddy water
+mentality		mental power or capacity, intelligence
+prudent			marked by wisdom or judiciousness
+provision		a measure taken beforehand to deal with a need
+prototype		an original model on which something is patterned
 protest			a solemn declaration of opinion and usually of dissent
 starch			to stiffen with or as if with starch
 prosperous		marked by success or economic well-being
