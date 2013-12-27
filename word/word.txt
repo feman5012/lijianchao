@@ -1583,59 +1583,60 @@ nominate
 nominee
 notate
 notion			an individual's conception or impression of something known, experienced, or imagined
-notwithstanding
-nourish
-noxious
-nurture
-oasis
-oblivious
+notwithstanding		despite, nevertheless, however
+nourish			to promote the growth of
+noxious			physically harmful or destructive to living beings
+nurture			to supply with nourishment
+oasis			a fertile or green area in an arid region (as a desert)
+oblivious		lacking remembrance, memory, or mindful attention
 obsess			to haunt or excessively preoccupy the mind of
-obsolete
-tough
-rodeo
-rodent
-edentate
-rod
+obsolete		no longer in use or no longer useful
+tough			strong or firm in texture but flexible and not brittle
+rodeo			a public performance featuring bronco riding, calf roping, steer wrestling, and Brahma bull riding
+rodent			a small mamal(as a rabbit or a shrew) other than a true rodent
+edentate		lacking teeth
+rod			a straight slender stick growing on or cut from a tree or bush
 pivot			a shaft or pin on which someting turns
-foam
-roam
-rival
-eloquence
-ribbon
-rhinoceros
-award
+foam			a material in a lightweight celluar from resulting from introduction of gas bubles during manufacture
+roam			to go from place to place without purpose or direction, wander
+rival			one of two or more striving to reach or obtain something that only one can possess
+eloquence		discourse marked by force and persuasiveness, the art or power of using such discourse
+ribbon			a flat or tubular narrow closely woven fabric (as of silk or rayon) used for trimmings or knitting
+rhinoceros		any of a family of large heavyset 
+award			to give by judicial decree or after careful consideration
 rebel			opposing or taking arms against a government or ruler
-uprise
-revolt
-revival
-revitalize
-revert
-revere
+uprise			to rise to a higher position
+revolt			to renounce allegiance or subjection
+revival			a new presentation or publication of something old
+revitalize		to give new life or vigor to
+revert			to come or go back (as to a former condition, period, or subject)
+revere			reard as worthy of great honor
 acorn			the nut of the oak	
-retrieve
-retreat
-retail
-respective
-locust
-migratory
+retrieve		to get back again
+retreat			an act or process of withdrawing especially from what is difficult, dangerous, or disagreeable
+retail			to sell in small quantities directly to the ultimate consumer
+respective		particular, separate
+locust			short-horned grasshopper
+migratory		of, relating to, or characterized by migration
 sauce			a condiment or relish for food, especially, a fluid dressing or topping
-saucer
-recourse
-resort
-resonance
-withstand
-residue
+saucer			a small shallow dish in which a cup is set at table
+recourse		a turning to someone or something for help or protection
+resort			one that affords aid or refuge
+resonance		the quality or state of being resonant
+withstand		to stand up against, oppose with firm determination, especially, to resist successfully
+residue			something that remains after a part is taken, separated
 reside			to dwell permanently or continuously, occupy a place as one's legal domicile
 domicile		a dwelling place, place of residence, home
-reservoir
-rescue
-mechanize
-reptile
-replicate
-repertory
-repertoire
+reservoir		
+rescue			to free from confinement, danger, or evil
+mechanize		to make mechanical, especially to make automatic or routine
+mechanical		of or relating to machinery or tools
+reptile			an animal that crawls or moves on its belly (as a snake) or on small short legs (as a lizard)
+replicate		duplicate, repeat
+repertory		a place where something may be found
+repertoire		a list or supply of dramas, operas, pieces, or parts that a company or person is prepared to perform
 repel			to fight against
-renovate
+renovate		to restore to a former better state (as by cleaning, repairing, or rebuilding)
 cretaceous		of, relating to, or being the last period of the Mesozoic era
 paleontologist		a science dealing with the life of past geological periods as known from fossil remains
 irridium		
@@ -1643,9 +1644,9 @@ lunar			of, relating to, or resembling the moon
 presumably		by reasonable assumption
 tentatively		hesitant, uncertain
 criterion		a standard on which a judgement or decision may be based
-pole
-pollen
-pollinate
+pole			either extremity of an axis of a sphere and especially of the earth's axis
+pollen			a mass of microspores in a seed plant appearing usually as a fine dust
+pollinate		to carry out the pollination of
 polygon			a closed plane figure bounded by straight lines
 ponderous
 reap
