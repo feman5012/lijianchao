@@ -1518,70 +1518,73 @@ diligent
 painstaking
 industrious
 paddle			to move the hands or feet about in shallow water
-ozone
-bluish
-owl
-overhaul
-outrageously
-outgas
-adornment
-aboriginal
-orientation
-ore
-roe
+ozone			a triatomic very reactive form of oxygen that is a bluish irritating gas of pungent odor
+bluish			somewhat blue, having a tinge of blue
+owl			nocturnal birds of prey with a large head and eyes, short hooked bill, strong talons, soft fluffy brown-mottled plumage
+fluffy			being light and soft or airy, puffed up
+overhaul		to examine thoroughly
+outrageously		exceeding the limits of what is usual
+outgas			to remove(gases) from a material or a space
+adornment		the action of adorning, the state of being adorned
+aboriginal		being the first or earliest known of its kind present in a region
+orientation		the act or process of orienting or of being oriented
+ore			a naturally occuring mineral containing a valuable consituent for which it is mined and worked
+roe			the eggs of a fish especially when still enclosed in the overian membrane
 orbit			a path described by one body in its revolution about another
-optimistic
-optimal
-optical
-occasion
-opaque
-opal
+optimistic	
+optimal			most desirable or satisfactory
+optical			of or relating to the science of optics
+optics			a science that deals with the genesis and propagation of light
+propagate		to travel through space or a material, used of wave energy(as light, sound, or radio waves)
+occasion		a favorable opportunity or circusmstance
+opaque			blocking the passage of radiant energy and especially light
+opal			quartz
 silt			loose sedimentary material with rock particles usually 1/20 millimeter or less in diameter
-ooze
-slaughter
-olfactory
-offspring
-offensive
-octopus
-oceanographer
-auction
-procure
-skeeter
-mosquito
-moth
-motif
+ooze			a soft deposit(as of mud, slime, or shells) on the bottom of a body of water
+slime			soft moist earth or clay
+slaughter		killing of great numbers of human beings(as in battle or a massacre)
+olfactory		of or relating to the sense of smell
+offspring		the product of the reproductive processes of an animal or plant
+offensive		making attack, aggressive
+octopus			something that resembles an octopus especially in having many centrally directed branches
+oceanographer		a science that deals with the oceans and includes the delimitation of their extent and depth
+procure			to get possession of, obtain by particular care and effort
+skeeter			mosquito
+mosquito		a fly that have a set of slender organs in the probocis adapted to puncture the skin of animals and to suck their blood
+moth			insect
+motif			a usually recurring salient thematic element(as in the arts), especially a dominant idea or central theme
 motive			something (as a need or desire) that causes a person to act
-mottled
-rugged
-manifold
-multitude
-mundane
-fresco
-mural
-mushroom
-mutual
-myriad
-artless
+mottled			a colored sport
+rugged			having a rough uneven surface, jagged
+manifold		marked by diversity or vairety
+multitude		a great number of people
+mundane			of, relating to, or characteristic of the world
+fresco			the art of painting on freshly spread moist lime plaster with water-based pigments
+mural			of, relating to, or resembling a wall
+mushroom		an enlarged complex aboveground fleshy fruiting body of a fungus
+mutual			directed by each toward the other or the others
+myriad			a great number
+artless			free from guile or craft, sincerely simple
 nake			not covered by clothing
-doze
-nap
-naval
-nectar
-needy
-negate
-negotiation
-neoclassical
-neolithic
-neon
+doze			to sleep lightly
+nap			to sleep briefly especially during the day, doze
+naval			of or relating to a navy
+nectar			the drink of the Greek and Roman gods
+needy			being in want, poverty-striken
+negate			to deny the existence or truth of
+negotiation		the action or process of negotiating or being negotiated
+neoclassical		of, relating to, or constituting a revival or adaption of the classical especially in leterature, music, art
+neolithic		of or relating to the latest period of the Stone Age characterized by polished stone implements
+neon			a discharge lamp in which the gas contains a large proportion of neon
 neutral			not engaged on either side, not aligned with a political or ideological grouping
-neutron
-nickel
-nitrogen
-nocturnal
-nomadic
-nominate
-nominee
-notate
+neutron			an uncharged elementary particle
+nickel			
+nitrogen		a colorless tasteless odorless element
+nocturnal		of, relating to, or occuring in the night
+nomadic			of, relating to, or characteristic of nomads
+nominate		to appoint or propose for appointment to an office or place
+nominee			
+notate			to put into notation
 notion			an individual's conception or impression of something known, experienced, or imagined
 notwithstanding		despite, nevertheless, however
 nourish			to promote the growth of
@@ -1648,21 +1651,21 @@ pole			either extremity of an axis of a sphere and especially of the earth's axi
 pollen			a mass of microspores in a seed plant appearing usually as a fine dust
 pollinate		to carry out the pollination of
 polygon			a closed plane figure bounded by straight lines
-ponderous
-reap
-populate
-portrait
-posit
+ponderous		of very great weight
+reap			to cut with a sickle, scythe, or reaping machine
+populate		to have a place in, occupy, inhabit
+portrait		picture, especially, a pictorial representation of a person usually showing the face
+posit			to dispose or set firmly, fix
 choppy			interrupted by ups and downs
-tilt
-postpone
-postulate
-potassium
-mash
-prairie
-precede
-precipitate
-precursor
+tilt			to cause to have an inclination
+postpone		to put off to a later time, defer
+postulate		to assume or claim as true, existence, or necessary
+potassium		
+mash			to reduce to a soft pulpy state by beating or pressure
+prairie			land in or predominantly in grass
+precede			to be, go, or come ahead or in front of
+precipitate		to cause to separate from solution or suspension
+precursor		one that precedes and indicates the approach of another
 predator		an animal that lives by predation
 predecessor		a person who has previously occupied a position or office to which another has succeeded
 gourmet			a connoisseur of food and drink
@@ -1871,9 +1874,10 @@ twinkling
 magnate
 tycoon
 herculean
-
-
-
+refute			to prove wrong by argument or evidence
+altruism		behavior by an animal that is not beneficial to or may be harmful to itself but that benefits others of its species
+sneaky			marked by stealth, furtiveness, or shiftiness
+sentinel		guard, watch, especially, a soldier standing guard at a point of passage(as a gate)
 
 
 
