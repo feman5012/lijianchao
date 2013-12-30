@@ -1185,20 +1185,20 @@ gospel			the message concerning Christ, the kindom of God, and salvation
 Gothic			of, relating to, or resembling the Goths, their civilization, or their language
 gourd			any of a family of chiefly herbaceous tendrili-bearing vines including the cucumber, melon, squash, and pumpkin
 gradient		the rate of regular or graded ascent or descent
-granite
-marble
-granular
-grasshopper
-gregarious
-grimly
+granite			a very hard natural rock
+marble			limestone that ranges from granular to compact in texture, that is used especially in architecture and sculpture
+granular		consisting of or appearing to consist of granules
+grasshopper		any of numerous plant-eating insects
+gregarious		tending to associate with others of one's kind
+grimly			fierce in disposition or action, savage
 toss			to fling or heave continuously about, to and fro, or up and down
 fro			back, away
-windmill
-grind
-grip
-groan
-grocery
-groom
+windmill		a mill or machine operated by the wind
+grind			to reduce to powder or small fragments by friction
+grip			to seize or hold firmly
+groan			to utter a deep moan indicative of pain, grief, or annoyance
+grocery			a grocer's store
+groom			a person responsible for the feeding, exercising, and stabling of horses
 gross			visible without the aid of a microscope
 grudge
 malice
@@ -1839,41 +1839,42 @@ ardor			an often restless or transitory warmth of feeling
 varnish			a liquid preparation that when applied to a surface dries to form a hard lustrous typically transparent coating
 burnish			to make shiny or lustrous especially by rubbing
 kiosk			an open summerhouse or pavilion
-vapor
-valve
-vague
-vacuum
-vaccine
-utter
-utilize
-utility
-impel
-urge
-urbanization
-turbulent
+vapor			diffused matter (as smoke or fog) suspended floating in the air and impairing its transparency
+valve			mechanical devices
+vague			not clearly expressed, stated in indefinite terms
+vacuum			emptiness of space
+vaccine			a preparation of living attenuated organisms that is administered to produce or artificially increase immunity
+utter			to send forth as a sound
+utilize			to make use of, turn to practical use or account
+utility			something useful or designed for use
+impel			to urge or drive forward or on by or as if by the exertion of strong moral pressure
+urge			to present, advocate, or demand earnestly or pressingly
+urbanization		the quality or state of being urbanized or the process of becoming urbanized
+turbulent		causing unrest, violence, or disturbance
 upheaval
-upheave
-untapped
-untamed
-unsubstantiated
-unravel
-unparalleled
-unearth
-underscore
-underneath
-undergo
-crumple
-labyrinth
-toll
-turnpike
-tactics
-twig
-twine
-stalk
-twinkling
-magnate
-tycoon
-herculean
+upheave			
+untapped		not drawn upon or utilized
+untamed			reduced from a state of native wildness especially so as to be tractable and useful to humans, domesticated
+unsubstantiated		not substantial, lacking substance, firmness, or strength
+unravel			to disengage or separate the threads of
+unparalleled		having no parallel, especially, having no equal or match, unique in kind or quality
+unearth			to dig up out of or as if out of the earth
+underscore		to make evident, emphasize, stress
+underneath		directly beneath
+undergo			to go through, experience
+crumple			to press, bend, or crush out of shape
+labyrinth		a place constructed of or full of intricate passageways and blind alleys
+toll			a tax or fee paid for some liberty or privilege (as of passing over a highway)
+turnpike		a road for the use of which tolls are collected
+tactics			the art or skill of employing available means to accomplish an end
+twig			a small shoot or branch usually without its leaves
+twine			a strong string of two or more strands twisted together
+stalk			a slender upright object or supporting or connecting part
+twinkling		the time required for a wink
+wink			to shut one eye briefly as a signal or in teasing
+magnate			a person of rank, power, influence, or distinction often in a specified area
+tycoon			a businessman of exceptional wealth and power
+herculean		of, relating to, or characteristics of Hercules
 refute			to prove wrong by argument or evidence
 altruism		behavior by an animal that is not beneficial to or may be harmful to itself but that benefits others of its species
 sneaky			marked by stealth, furtiveness, or shiftiness
