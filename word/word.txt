@@ -1376,33 +1376,34 @@ hive
 hockey
 homestead
 pigeon			any of a widely distributed family of birds with a stout body, rather short legs, and smooth and compact plumage
-hominid
-homogeneous
-hook
-hanger
-horn
-trumpet
-hospitable
-parasite
-household
+hominid			any of a family of erect bipedal mammals
+homogeneous		of the same or a similar kind or nature
+hook			a curved or bent device for catching, holding, or pulling
+hanger			one that hangs or causes to be hung or hanged
+horn			one of the permanent paired hollow sheaths of keratin
+trumpet			a musical instrument (as a cornet) resembling a trumpet
+hospitable		given to generous and cordial reception of guests
+cordial			of or relating to the heart
+parasite		an organism living in, with, or on another organism in parasitism
+household		those who dwell under the same roof and compose a family
 hover			to hang fluttering in the air or on the wing
 flutter			to flap the wings rapidly
-huddle
-hue
-hum
-humid
-hummingbird
+huddle			to arrange carelessly or hurriedly
+hue			the attribute of colors that permits them to be classed as red, yellow, green, blue
+hum			to utter a sound like that of the speech sound \m\ prolonged
+humid			containing or characterized by perceptible moisture especially to the point of being oppressive
+hummingbird		birds that have a very slender bill and an extensible tongue for sipping nectar and that usually hover when feeding
 hurl			to send or thrust with great vigor
 vigor			active bodily or mental strength or force
-hurricane
-cyclone
-husk
-hydrogen
-hydrothermal
-hygiene
-transfigure
-ideology
-idiom
+hurricane		a tropical cyclone with winds of 74 miles per hour
+cyclone			a storm or system of winds that rotates about a center of low atmospheric pressure
+husk			a usually dry or membranous outer covering
+hydrogen		a nonmetallic element that is the simplest and lightest of the elements, is normally a colorless, odorless gas
+hydrothermal		of or relating to hot water
+hygiene			a science of the establishment and maintenance of health
+transfigure		to give a new and typically exalted or spiritual appearance to, transform outwardly and usually for the better
+ideology		a systematic body of concepts especially about human life or culture
+idiom			the language peculiar to a people or to a district, community, or class, dialect
 vacant			not occupied by an incumbent, possessor, or officer
 ignition
 ignorant
@@ -1427,39 +1428,39 @@ impermeable
 impetus
 implicit
 imply			to express indirectly
-impose
-levy
-stunning
-imprint
-improvise
-gosling
-inanimate
+impose			to establish or apply by authority
+levy			the enlistment or conscription of men for military service
+stunning		causing astonishment or disbelief
+imprint			to mark by or as if by pressure
+improvise		to compose, recite, play, or sing extemporaneously
+gosling			a young goose
+inanimate		not animate
 inanity			the quality or state of being inane
-inaugurate
-plunge
-plump
-plot
-metropolitan
-plight
-playwrite
-plausible
-platitude
-tableland
-plaster
+inaugurate		to induct into an office with suitable ceremonies
+plunge			to cause to penetrate or enter quickly and forcibly into something
+plump			to drop, sink, or come in contact suddenly or heavily
+plot			a graphic representation (as a chart)
+metropolitan		of, relating to, or characteristic of a metropolis and sometimes including its suburbs
+plight			an unfortunate, difficult, or precarious situation
+playwriting		the writing of plays
+plausible		superficially fair, resonable, or valuable but often specious
+platitude		the quality or state of being dull or insipid
+tableland		a broad level elevated area, plateau
+plaster			a pasty composition (as of lime, water, and sand) that hardens on drying and is used for coating walls, ceilings.
 plasma			a green faintly translucent quartz
 ionize
 plankton
-plank
-walnut
-pivotal
-pitcher
+plank			a heavy thick board
+walnut			the furrowed nut of any of a genus of deciduous trees
+pivotal			vitally important, critical
+pitcher			a container for holding and pouring liquids that usually has a lip or spout
 pit			a hole, shaft, or cavity in the ground
-piracy
-hose
-pinpoint
-pine
-pineapple
-pilot
+piracy			the unauthorized use of another's production, invention, or conception especially in infrigement of a copyright
+hose			a flexiable tube for conveying fluids
+pinpoint		something that is extremely small or insignificant
+pine			any of a genus of coniferous evergreen trees that have slender elongated needles
+pineapple		
+pilot			a person who flies or is qualified to fly an aircraft or spacecraft
 vest			to place or give into the possession or discretion of some person or authority
 pictorial
 physiology
@@ -1481,42 +1482,43 @@ permeate
 blotting
 perishable
 cherish			to keep or cultivate with care and affection
-peripheral
-perfume
+peripheral		of, relating to, involving, or forming a periphery or surface part
+perfume			the scent of something sweet-smelling
+scent			a characteristic or particular odor, especially, one that is agreeable
 flaw			a defect in physical structure or form
-penicillin		
+penicillin		a mixture of such acids
 pendant			an ornament(as on a necklace) allowed to hang free
 pedagogy		the art, science, or profession of teaching, especially education
 peculiar		different from the usual or normal
 summit			top, apex, especially, the highest point, peak
 pave			to lay or cover with material that forms a firm level surface for travel
-patronizing
-patronage
-patron
-benefactor
-patrol
-patriot
-pathology
+patronizing		to act as patron of, provide aid or support for
+patronage		the support or influence of a patron
+patron			a social or financial sponsor of a social function
+benefactor		one that confers a benefit, especially one that makes a gift or bequest
+patrol			the action of traversing a district
+patriot			one who loves his or her country and supports its authority and interests
+pathology		the study of the essential nature of diseases and especially of the structural and functional changes produced by them
 patent			an official document conferring a right or priviledge
-stripe
-scrap
-meadow
-pasture
-assertive
-dime
-impartially
-parliament
+stripe			a stroke or blow with a rod or lash
+scrap			fragments of discarded
+meadow			land that is covered or mostly covered with grass
+pasture			plants(as grass) grown for the feeding especially of grazing animals
+assertive		disposed to or characterized by bold or confident statements and behavior
+dime			a coin of the United States worth 1/10 dollar
+impartially		not partial or biased, treating or affecting all equally
+parliament		a formal conference for the discussion of public affairs
 tachinid		any of a family of bristly usually grayish or black dipteran flies whose parasitic larvae
-paramount	
-propellant
-paralyze
-pancreas
-pamphlet
-palate
-palatable
-diligent
-painstaking
-industrious
+paramount		superior to all others, supreme
+propellant		something that propels
+paralyze		the affect with paralysis
+pancreas		a large lobulated gland of vertebrates that secretes digestive enzymes and the hormones insulin and glucagon
+pamphlet		an unbound printed publication with no cover or with a paper cover
+palate			the roof of the mouth separating the mouth from the nasal cavity
+palatable		agreeable to the palate or taste
+diligent		characterized by steady, earnest, and energetic effort
+painstaking		the action of taking pains, diligent care and effort
+industrious		of or relating to industry
 paddle			to move the hands or feet about in shallow water
 ozone			a triatomic very reactive form of oxygen that is a bluish irritating gas of pungent odor
 bluish			somewhat blue, having a tinge of blue
