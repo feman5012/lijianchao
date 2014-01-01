@@ -1221,7 +1221,7 @@ harsh
 raspy
 haste
 hatch			to produce young by incubation
-haul
+haul			to exert traction on, draw
 haunt
 haven
 dove
@@ -1229,41 +1229,41 @@ hawk
 hay
 stover
 hazard
-heed
+heed			to pay attention
 hemisphere
 henceforth
 herald
 herbicide
 literally
-listless
-lipid
-linger
-linen
+listless		characterized by lack of interest, energy, or spirit
+lipid			any of various substances that are soluble in nonpolar organic solvents
+linger			to be slow in parting or in quiting something, tarry
+linen			cloth made of flax and noted for its strength, coolness, and luster
 lace			a cord or string used for drawing together two edges
 linear
 lime
 lettuce
 lethargy
 lethal
-lens
+lens			a piece of transparent material that has two opposite regular surfaces
 spare
 legible
 tale
 leftover
-ledge
-leather
-lease
+ledge			a narrow flat surface or shelf, especially, one that projects from a wall of rock
+leather			animal skin dressed for use
+lease			a contract by which one conveys real estate, equipment, or facilities for a specified term and for a specified rent
 leap			to pass abruptly from one state or topic to another
-league
-wool
-turtle
-magma
-laureate
-laundry
-latent
-lash
-larva
-landscape
+league			an association of nations or other political entities for a common purpose
+wool			
+turtle			
+magma			molten rock material within the earth from which igneous rock results by cooling
+laureate		the recipient of honor or recognition for achievement in an art or science
+laundry			a room for doing the family wash
+latent			present and capable of emerging or developing but not now visible, obvious, active, or symptomatic
+lash			to move violently or suddenly
+larva			the early form of an animal
+landscape		a picture representing a view of natural inland scenery
 landmass
 lament			to express sorrow, mourning, or regret for often demonstratively
 laboratory
@@ -1277,7 +1277,7 @@ junction
 intersection
 jumble
 swift			moving or capable of moving with great speed
-astound
+astound			overwhelmed with astonishment or amazement
 jolt			to cause to move with a sudden jerky motion
 jerky			characterized by abrupt transitions
 bolt			a wood or metal bar or rod used to fasten a door
@@ -1295,23 +1295,23 @@ irrigate		to supply with water by artificial means
 irony			the use of words to express something other than and especially the opposite of the literal meaning
 ironically		in an ironic manner
 involve			to engage as a participant
-investigate
+investigate		to observe or study by close examination and systematic inquiry
 vertebrate		having a spinal column
 spinal			of, relating to, or resembling a spine
-spine			
+spine			spinal column
 inventory		an itemized list of current assets
 plow			an implement used to cut, lift, and turn over soil especially in preparing a seedbed
-intriguing
-intricate
-intrepid
-intoxication
-intimate
-interstellar
-spiral
-internship
-interfere
-intelligent
-intellect
+intriguing		engaging the interest to a marked degree
+intricate		having many complexly interrelating parts or elements
+intrepid		characterized by resolute fearlessness, fortitude, and endurance
+intoxication		an abnormal state that is essentially a poisoning
+intimate		marked by very close association, contact, or familiarity
+interstellar		located, taking place, or traveling among the stars especially of the Milky Way galaxy
+spiral			winding around a center or pole and gradually receding from or approaching it
+internship		
+interfere		to interpose in a way that hinders or impedes, come into collision or be in opposition
+intelligent		having or indicating a high or satisfactory degree of intelligence and mental capacity
+intellect		the power of knowing as distinguished from the power to feel and to will
 insulin			a protein pancreatic hormone secreted by the beta cels of the islets of Langerhans
 glucose			the sweet colorless soluble dextrorotatory form that occurs widely in nature
 diabetes		any of various abnormal conditions characterized by the secretion and excretion of excessive amounts of urine
@@ -1349,32 +1349,33 @@ inflation		a continuing rise in the general price level usually attributed to an
 inflammation		a local response to cellular injury that is makred by capillary dilatation, redness, heat, and pain
 inferior		of low or lower degree or rank
 infant			a child in the first period of life
-inert
-induce
-oyster
-indispensable
-incubate
-parrot
-inconspicuous
-hasty
-incinerate
-incessant
-inception
-incense
+inert			lacking the power to move
+induce			to move by persuation or influence
+oyster			any of various marine bivalve mollusks that have a rough irregular shell closed by a single adductor muscle
+indispensable		not subject to being set aside or neglected
+incubate		to sit on eggs so as to hatch by the warmth of the body
+parrot			a person who sedulously echoes another's words
+inconspicuous		not readily noticeable
+hasty			done or made in a hurry
+incinerate		to cause to burn to ashes
+incessant		continuing or following without interruption
+inception		an act, process, or instance of beginning
+incense			material used to produce a fragrant odor when burned
 heal			to restore to health
-hibernation
-dormancy
-conceal
-tan
-hieratic
-hieroglyph
-gerbil
+hibernation		to pass the winter in a torpid or resting state
+torpid			having lost motion or the power of exertion or feeling
+dormancy		the quality or state of being dormant
+conceal			to prevent disclosure or recognition of
+tan			to convert to leather or a similar substance
+hieratic		highly stylized or formal
+hieroglyph		a character used in a system of hieroglyphic writing
+gerbil			any of numerous Old World burrowing desert rodent with long hind legs adapted for leaping
 hint			a statement conveying by implication what it is preferred not to say explicitly
-hinterland
-hitherto
-hive
-hockey
-homestead
+hinterland		a region remote from urban areas
+hitherto		up to this or that time	
+hive			a container for housing honeybees
+hockey			field hockey or ice hockey
+homestead		the home and adjoining land occupied by a family
 pigeon			any of a widely distributed family of birds with a stout body, rather short legs, and smooth and compact plumage
 hominid			any of a family of erect bipedal mammals
 homogeneous		of the same or a similar kind or nature
@@ -1405,28 +1406,29 @@ transfigure		to give a new and typically exalted or spiritual appearance to, tra
 ideology		a systematic body of concepts especially about human life or culture
 idiom			the language peculiar to a people or to a district, community, or class, dialect
 vacant			not occupied by an incumbent, possessor, or officer
-ignition
-ignorant
+ignition		the starting of a fire
+ignorant		resulting from or showing lack of knowledge or intelligence
 neglect			to give little attention or respect to
-illusion
-delusion
-seduce
-allusion
-elusion
-imagist
-imbibe
-camel
+illusion		the state or fact of being intellectually deceived or misled
+delusion		the act of deluding, the state of being deluded
+delude			to mislead the mind or judgement of, deceive, trick
+seduce			to persuade to disobedience or disloyalty
+allusion		an implied or indirect reference especially in literature
+elusion			an act of eluding
+imagist			
+imbibe			to receive into the mind and retain
+camel			either of two large ruminant mammals used as draft and saddle animals in desert regions especially of Africa and Asia
 ripe			fully grown and developed
-proximal
-immune
-exemption
-immutable
-impair
-impending
-imperative
-impermeable
-impetus
-implicit
+proximal		situated close to
+immune			having or producing antibodies or lymphocytes capable of reacting with a specific antigen
+exemption		free or released from some liability or requirement to which others are subject
+immutable		not capable of or susceptible to change
+impair			to damage or make worse by or as if by diminishing in some material respect
+impending		to be about to occur
+imperative		having power to restrain, control, and direct
+impermeable		not permitting passage (as of a fluid) through its substance, broadly
+impetus			a driving force
+implicit		capable of being understood from something else though unexpressed
 imply			to express indirectly
 impose			to establish or apply by authority
 levy			the enlistment or conscription of men for military service
@@ -1448,8 +1450,8 @@ platitude		the quality or state of being dull or insipid
 tableland		a broad level elevated area, plateau
 plaster			a pasty composition (as of lime, water, and sand) that hardens on drying and is used for coating walls, ceilings.
 plasma			a green faintly translucent quartz
-ionize
-plankton
+ionize			to convert wholly or partly into ions
+plankton		the passively floating or weakly swimming usually minute animal and plant life of a body of water
 plank			a heavy thick board
 walnut			the furrowed nut of any of a genus of deciduous trees
 pivotal			vitally important, critical
@@ -1462,25 +1464,28 @@ pine			any of a genus of coniferous evergreen trees that have slender elongated 
 pineapple		
 pilot			a person who flies or is qualified to fly an aircraft or spacecraft
 vest			to place or give into the possession or discretion of some person or authority
-pictorial
-physiology
-physician
-photosynthesis
-photodissociation
-philosophy		
-pheromone
-recurring
-pharmacy
-pestcide
-pervasive
-pertinent
+pictorial		of or relating to a painter, a painting, or the painting or drawing of pictures
+physiology		a branch of biology that deals with the functions and activities of life or of living matter
+physician		a person skilled in the art of healing, as usually distinguished from surgery
+photosynthesis		synthesis of chemical compounds with the aid of radiant energy and especially light
+photodissociation	dissociation of the molecules of a substance caused by absorption of radiant energy
+philosophy		a discipline comprising as its core logic, aesthetics, ethics, metaphysics, and epistemology
+metaphysics		abstract philosophical studies, a study of what is outside objective experience
+epistemology		the study or a theory of the nature and grounds of knowledge especially with reference to its limits and validity
+pheromone		a chemical substance that is usually produced by an animal and serves especially as a stimulus to other individuals
+recurring		to occur again after an interval, occur time after time
+pharmacy		the art, practice, or profession of preparing, preserving, compounding, and dispensing medical drugs
+pesticide		an agent used to destory pests
+pervasive		existing in or spreading through every part of something
+pertinent		having a clear decisive relevance to the matter in hand
 almanac			a publication containing astronomical and meteorological data for a given year
-locale
-persuasive
-perpetuate
-permeate
-blotting
-perishable
+locale			a place or locality especially when viewed in relation to a particular event or characteristic
+persuasive		tending to persuade
+perpetuate		to make perpetual or cause to last indefinitely
+perpetual		continuing forever
+permeate		to pass through the pores or interstices of
+blotting		a soiling or disfiguring mark, spot
+perishable		liable to perish, liable to spoil or decay
 cherish			to keep or cultivate with care and affection
 peripheral		of, relating to, involving, or forming a periphery or surface part
 perfume			the scent of something sweet-smelling
@@ -1881,11 +1886,4 @@ refute			to prove wrong by argument or evidence
 altruism		behavior by an animal that is not beneficial to or may be harmful to itself but that benefits others of its species
 sneaky			marked by stealth, furtiveness, or shiftiness
 sentinel		guard, watch, especially, a soldier standing guard at a point of passage(as a gate)
-
-
-
-
-
-
-
 
