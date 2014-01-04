@@ -1886,100 +1886,101 @@ refute			to prove wrong by argument or evidence
 altruism		behavior by an animal that is not beneficial to or may be harmful to itself but that benefits others of its species
 sneaky			marked by stealth, furtiveness, or shiftiness
 sentinel		guard, watch, especially, a soldier standing guard at a point of passage(as a gate)
-lean
-carton
-ultimatum
-notoriously
-nutrient
-serpentine
-symptom
-chlorosis
-chlorophyll
-necrosis
-anthocyanin
-stunt
-herbaceous
-phosphorus
-petiole
-hydroponically
-aeroponics
-misted
-toxic
-saline
-sodium
-chloride
-hyperaccumulator
-amass
-manganese
-mustard
-spurge
-legume
-microbial
-pathogen
-phytoremediation
-reburial
-remediation
-smelter
-fanciful
-balsa
-reed
-taro
-sugarcane
-maritime
-canoe
-maroon
-adrift
-cambrian
-diversification
-discourage
-descendant
-detritus
-algae
-anthropod
-mite
-zoologist
-reign
-piston
-stoke
-reciprocating
+lean			to incline, or bend from a vertical position
+carton			a box or container usually made of cardboard and often of corrugated cardboard
+ultimatum		a final proposition, condition, or demand
+notoriously		general known and talked of, widely and unfavorably known
+nutrient		furnishing nourishment
+serpentine		something that winds sinuously
+symptom			something that indicates the existence of something else
+chlorosis		a diseased condition in green plants marked by yellowing or blanching
+chlorophyll		the green photosynthetic pigment found chiefly in the chloroplasts of plants
+necrosis		localized death of living tissue
+anthocyanin		any of various soluble glycoside pigments producing blue to red coloring in flowers and plants
+stunt			to hinder the normal growth, development, or progress of
+herbaceous		of, relating to, or having the characteristics of an herb
+phosphorus		a phosphorescent substance or body, one that shines or glows in the dark
+petiole			a slender stem that supports the blade of a foliage leaf
+hydroponically		the growing of plants in nutrient solutions with or without an inert medium to provide mechanical support
+aeroponics		
+misted			water in the form of particles floating or falling in the atmosphere at or near the surface of the earth
+toxic			containing or being poisonous material especially when capable of causing death or serious debilitation
+saline			consisting of or containing salt
+sodium			a silver-white soft waxy ductile element
+chloride		a compound of chloride with another element or group
+hyperaccumulator	
+amass			to collect into a mass, gather
+manganese		a grayish-white usually hard and brittle metallic element that resembles iron but is not magnetic
+mustard			a pungent yellow powder of the seeds of any of several common mustards
+spurge			any of a family of widely distributed herbs, shrubs, and trees often with a bitter milky juice
+legume			the fruit or seed of plants of the legume family(as peas or beans) used for food
+microbial		microorganism, germ
+pathogen		a specific causative agent(as a bacterium or virus) of disease
+reburial		
+remediation		the act or process of remedying
+remedy			something that corrects or counteracts
+smelter			a worker who smelts ore
+smelt			to melt or fuse (as ore) often with an accompanying chemical change usually to separate the metal
+fanciful		marked by fancy or unrestrained imagination rather than by reason and experience
+balsa			a small raft or boat
+reed			any of various tall grasses with slender often prominently jointed stems that grow especially in wet areas
+taro			a large-leaved tropical Asian plant
+sugarcane		a stout tall perennial grass
+maritime		of or relating to navigation or commerce on the sea
+canoe			a light narrow boat with ends sharp that is usually propelled by padding
+maroon			to place or leave in isolation or without hope of ready escape
+adrift			without motive power and without anchor or mooring
+cambrian		geologic period
+diversification		the condition of having or being composed of differing elements
+discourage		to deprive of courage or confidence
+descendant		proceeding from an ancestor or source
+detritus		loose material (as rock fragments or organic particles) that results directly from disintegration
+alga			
+anthropod		
+mite			any of numerous small acarid that often infest animals, plants, and stored foods
+zoologist		a branch of biology concerned with the classification and the properties and vital phenomena of animals
+reign			royal authority
+piston			a sliding piece moved by or moving against fluid pressure which usually consists of a short cylindrical body
+stoke			to rub gently in one direction
+reciprocating		to move forward and backward alternately
 millennium
-lamp
-flicker
-candle
-well-to-do
-gaslit
-starved
-bellow
-isle
-spin
-flang
-stationary
-sprang
-blacksmith
-rudimentary
-survey
-parish
-proceed
-course
-outcrop
-strata
-coach
-wale
-meticulously
-catalog
-shale
-faunal
-floral
-limestone
-trilobite
-ubiquitous
-infantile
-scanty
-sibling
-sheer
-repression
-toddler
-gist
+lamp			any of various devices for producing light or sometimes heat
+flicker			to burn or shine fitfully or with a fluctuating light
+candle			a usually molded or dipped mass of wax
+well-to-do		having more than adequate financial resources, prosperous
+gaslit			illuminated by gaslight
+starved			to suffer extreme hunger
+bellow			to make the loud deep hollow sound characteristic of a bull
+isle			island, islet
+spin			to draw out and twist fiber into yarn or thread
+flang			
+stationary		fixed in a station, course, or mode, immobile
+sprang			past of spring
+blacksmith		a smith who forges iron
+rudimentary		consisting in first principles, fundamental
+survey			to examine as to condition, situation, or value
+parish			a local church community
+proceed			to continue after a pause or interruption
+course			the act or action of moving in path from point or point
+outcrop			the part of a rock formation that appears at the surface of the ground
+strata			
+coach			a large usually closed four-wheeled horse-drawn carriage having doors in the sides
+wale			a narrow raised surface
+meticulously		marked by extreme or excessive care in the consideration or treatment of details
+catalog			a complete enumeration of items arranged systematically with descriptive details
+shale			a fissile rock that is formed by the consolidation of clay, mud, or silt
+faunal			animal life, especially, the animals characteristic of a region, period,or special environment-compare flora
+floral			plant or bacterial life, especially, such life characteristic of a region, period, or special environment
+limestone		a rock that is formed chiefly by accumulation of organic remians
+trilobite		any of numerous extinct marine arthropods
+ubiquitous		existing or being everywhere at the same time
+infantile		of or relating to infants or infancy
+scanty			limited or less that sufficient in degree, quantity, or extent
+sibling			one of two or more individuals having one common parent
+sheer			to deviate from a course
+repression		the action or process of repressing
+toddler			one that tolldes, especially a young child
+gist			the main point or part
 
 
 
