@@ -1,11 +1,12 @@
 .PHONY: ALL  QQ_01 QQ_02 JD TAOBAO ALIPAY PHONE PHONE_ZHUOFEI MAIL_126 MAIL_QQ_01 MAIL_QQ_02 JUNIOR_SCHOOL BIRTH_PLACE APPLE GITHUB APS POCKET
-.PHONY: READABILITY_01 READABILITY_02 BAIDU_01 BAIDU_02 PLEX MSN MATLAB TPOOO DOUBAN
+.PHONY: READABILITY_01 READABILITY_02 BAIDU_01 BAIDU_02 PLEX MSN MATLAB TPOOO DOUBAN CJOL SUNING _12306_ TOEFL
 
-ALL: QQ_01 QQ_02 JD TAOBAO ALIPAY APPLE GITHUB APS POCKET READABILITY_01 READABILITY_02 BAIDU_01 BAIDU_02 PLEX MSN MATLAB TPOOO DOUBAN
+ALL: _12306_ TOEFL
+ALL: QQ_01 QQ_02 JD TAOBAO ALIPAY APPLE GITHUB APS POCKET READABILITY_01 READABILITY_02 BAIDU_01 BAIDU_02 PLEX MSN MATLAB TPOOO DOUBAN CJOL SUNING
 	@echo '----------------------------------------------------------------'
 	@echo that is all
 
-MSN:
+MSN: MAIL_126 MAIL_QQ_01
 	@echo '----------------------------------------------------------------'
 	@echo $@:pre:$+
 	@echo lijianchao5012@hotmail.com
@@ -129,3 +130,24 @@ DOUBAN: MAIL_QQ_01
 	@echo '----------------------------------------------------------------'
 	@echo $@:pre:$+
 	@echo feman5012 
+
+CJOL: MAIL_QQ_01
+	@echo '----------------------------------------------------------------'
+	@echo $@:pre:$+
+	@echo feman5012 
+
+
+SUNING: PHONE MAIL_QQ_01
+	@echo '----------------------------------------------------------------'
+	@echo $@:pre:$+
+	@echo feman5012@foxmail.com 
+
+_12306_: PHONE MAIL_126
+	@echo '----------------------------------------------------------------'
+	@echo $@:pre:$+
+	@echo feman5012 
+
+TOEFL: PHONE  MAIL_QQ_01
+	@echo '----------------------------------------------------------------'
+	@echo $@:pre:$+
+	@echo 2540660 
