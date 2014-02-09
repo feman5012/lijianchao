@@ -1,0 +1,35 @@
+1> The thought of having to solve seven simultaneous equations to find the current delivered by a pair of dry cells to a flishlight lamp is not very appealing.
+2> The importance of this second observation is obvious when you note that each node in the circuit shown in Fig.2.15 invovles only two elements. 
+3> This will help us identify the information that is known and the information we must calculate.
+4> An ideal voltage source maintains a prescribed voltage regardless of the current in the device.  
+5> A resistor constrains its voltage and current to be proportional to each other.
+6> By combining the equation for power, p = vi, with Ohm's law, we can determine the power absorbed by a resistor.
+7> A circuit is solved when the voltage across and the current in a every element have been determined.
+8> This chapter focuses on reducing such circuits into simpler, equivalent circuits.
+9> It gives us a chance to acquaint ourselves thoroughly with the laws underlying more sophisticated methods.
+10> The significance of Eq.3.3 for calculating Is is that the seven resistors can be replaced by a single resistor whose numerical value is the sum of the individual resistors.
+11> The contents are hidden from view.
+12> One way of doing this is by using a voltage-divider circuit.
+13> The resistor Rl acts as a load on the voltage-divider circuit.
+14> Now we can generalize the results from analyzing the voltage divider circuit in Fig.3.12 and the current-divider circuit in Fig.3.15.
+15> It also is refered to as a pi interconnection because the delta can be shaped into a pi without disturbing the electrical equivalence of the two configurations.
+16> In this chapter we introduce two powerful techniques of circuit analysis that aid in the analysis of complex circuit structures: the node-voltage method and the mesh-current method.
+17> In addition to these two general analytical methods, in this chapter we also discuss other techniques for simplifiying circuits.
+18> The node-voltage method is applicable to both planar and nonplanar circuits, whereas the mesh-current method is limited to planar circuits.
+19> Because we need b equations to describe a given circuit and because we can obtain n-1 of these equations from Kirchhoff's current law, we must apply Kirchhoff's voltage law to loops or meshes to obtain the remaining b-(n-1) equations.
+20> Specifically, we apply Kirchhoff's current law to n-1 nodes and Kirchhoff's voltage law to b-(n-1) loops (or meshes).
+21> The node-voltage method enables us to describe a circuit in terms of ne-1 equations, the mesh-current method enables us to describe a circuit in terms of be-(ne-1) equations.
+22> A node voltage is defined as the voltage rise from the reference node to a nonreference node.
+23> The reason is that, whenever a voltage source connects two essential nodes, it constrains the difference between the node voltages at these nodes to equal the voltage of the source.
+24> Recall that a mesh is a loop with no other loops inside it.
+25> The fact that a mesh current can be a fictious quantity doesn't mean that it is a useless concept.
+26> On the contrary, the mesh-current method of circuit analysis evovles quite naturally from the branch-current equations.
+27> If the circuit contains dependent sources, the mesh-current equations must be supplemented by the appropriate constraint equations.
+
+   
+
+
+    
+
+
+ 
