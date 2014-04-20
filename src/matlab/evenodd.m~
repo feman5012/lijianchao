@@ -1,0 +1,9 @@
+function [xe, xo, m] = evenodd(x, n)
+% Real signal decompostion into even and odd parts
+% ------------------------------------------
+% [xe, xo, m] = evenodd(x, n)
+%
+if any(imag(x) ~=0)
+   error('x is not a real sequence') 
+end
+
